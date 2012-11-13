@@ -1,0 +1,3172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="https://launchpad.net/jessyink"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="900"
+   id="svg2"
+   inkscape:label="Pozadí"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="16-9.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-137.73905"
+     inkscape:cy="52.264994"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="860"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient19618">
+      <stop
+         id="stop19620"
+         offset="0"
+         style="stop-color:#fde4b7;stop-opacity:1;" />
+      <stop
+         id="stop19622"
+         offset="1"
+         style="stop-color:#f8a30d;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       r="23.000002"
+       fy="15.028527"
+       fx="21.837509"
+       cy="15.028527"
+       cx="21.837509"
+       gradientTransform="matrix(40.406802,0,0,32.797273,-27.201661,-102.506)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient19624"
+       xlink:href="#linearGradient19618"
+       inkscape:collect="always" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath120-3">
+      <path
+         d="M 0,330 322,330 322,0 0,0 0,330 z"
+         id="path122-5"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Logo"
+     id="layer3"
+     inkscape:groupmode="layer"
+     transform="translate(0,132)">
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path19614"
+       d="m -17.07943,785.06443 1630.78643,2.93254 4.9669,-1034.85416 -1636.618334,-1.10869 z"
+       style="opacity:0.47999998;fill:url(#radialGradient19624);fill-opacity:1;fill-rule:evenodd;display:inline"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g10"
+       inkscape:label="3dprintlab-logo1"
+       transform="matrix(1.9273614,0,0,-1.9273614,497.5577,637.41129)">
+      <g
+         id="g19987">
+        <g
+           transform="translate(0,4.8)"
+           id="g11536">
+          <g
+             id="g11523">
+            <g
+               id="text108"
+               transform="matrix(0.73583705,0.67715865,0.67715865,-0.73583705,30.1424,141.3307)">
+              <path
+                 id="path11509"
+                 style="font-size:28.00008583px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 5.6280173,-17.220053 0,6.076019 8.2880257,0 0,2.7160082 -8.2880257,0 0,8.4280258 -3.0240093,0 0,-19.936061 12.740039,0 0,2.716008 -9.7160297,0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path11511"
+                 style="font-size:28.00008583px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 18.312056,0 0,-19.936061 3.024009,0 0,19.936061 -3.024009,0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path11513"
+                 style="font-size:28.00008583px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 32.620099,-17.220053 0,17.220053 -3.024009,0 0,-17.220053 -5.488017,0 0,-2.716008 14.000043,0 0,2.716008 -5.488017,0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path11515"
+                 style="font-size:28.00008583px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 60.480184,-5.9640183 c -0.168016,0.9893414 -0.466683,1.8666765 -0.896002,2.6320081 -0.410683,0.7653382 -0.933351,1.4093396 -1.568005,1.9320059 -0.616015,0.52266915 -1.32535,0.91466996 -2.128007,1.17600361 -0.784013,0.2613341 -1.624015,0.39200104 -2.520007,0.3920012 -1.064012,-1.6e-7 -2.03468,-0.17733386 -2.912009,-0.53200163 -0.858675,-0.37333374 -1.633343,-0.90533488 -2.324008,-1.59600488 -0.485338,-0.4853324 -0.858672,-0.9986668 -1.120003,-1.5400047 -0.261336,-0.541331 -0.457337,-1.1293322 -0.588002,-1.7640054 -0.112002,-0.6533295 -0.177336,-1.3626643 -0.196,-2.1280066 -0.01867,-0.7653275 -0.028,-1.6239959 -0.028,-2.5760079 -2e-6,-0.9519924 0.0093,-1.8106604 0.028,-2.5760074 0.01866,-0.765323 0.084,-1.465324 0.196,-2.100007 0.130665,-0.65332 0.326666,-1.250654 0.588002,-1.792005 0.261331,-0.541318 0.634665,-1.054653 1.120003,-1.540005 0.690665,-0.69065 1.465333,-1.213318 2.324008,-1.568005 0.877329,-0.373314 1.847997,-0.559982 2.912009,-0.560002 1.866661,2e-5 3.425331,0.522688 4.676014,1.568005 1.269322,1.026688 2.081324,2.548024 2.436007,4.564014 l -3.080009,0 c -0.24268,-1.007988 -0.700015,-1.829323 -1.372004,-2.464007 -0.653347,-0.634652 -1.540015,-0.951986 -2.660008,-0.952003 -0.597344,1.7e-5 -1.148012,0.112017 -1.652006,0.336001 -0.504008,0.205351 -0.933342,0.494684 -1.288003,0.868002 -0.242674,0.26135 -0.448007,0.550684 -0.616002,0.868003 -0.149339,0.298683 -0.270673,0.68135 -0.364001,1.148004 -0.07467,0.448015 -0.130673,1.008016 -0.168001,1.680005 -0.03734,0.672014 -0.056,1.512015 -0.056,2.5200074 -5e-6,1.0080121 0.01866,1.8480138 0.056,2.5200078 0.03733,0.6720088 0.09333,1.2413433 0.168001,1.7080052 0.09333,0.4480067 0.214662,0.8306741 0.364001,1.1480035 0.167995,0.2986719 0.373328,0.5786725 0.616002,0.8400026 0.354661,0.3733379 0.783995,0.6720051 1.288003,0.8960027 0.503994,0.2053367 1.054662,0.3080035 1.652006,0.308001 1.119993,2.5e-6 2.015995,-0.3173315 2.688008,-0.9520029 0.671989,-0.6346645 1.129324,-1.4559995 1.372004,-2.4640076 l 3.052009,0 m -6.160019,-15.9040487 -2.408007,0 -3.612011,-4.508014 2.380007,0 2.436008,2.716008 2.436007,-2.716008 2.380008,0 -3.612012,4.508014"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path11517"
+                 style="font-size:28.00008583px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 70.280215,0 -2.352008,0 -6.55202,-19.936061 3.13601,0 4.592014,14.5040443 4.592014,-14.5040443 3.19201,0 L 70.280215,0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path11519"
+                 style="font-size:28.00008583px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 92.960283,-6.7200206 c -1.7e-5,1.0266755 -0.186684,1.9693441 -0.560002,2.8280087 -0.354684,0.8400056 -0.858685,1.5586737 -1.512005,2.1560066 -0.634682,0.5973363 -1.390684,1.06400391 -2.268007,1.40000427 C 87.742922,0 86.800253,0.16800035 85.792261,0.16800051 84.784249,0.16800035 83.84158,0 82.964252,-0.33600103 82.08691,-0.67200139 81.330909,-1.138669 80.696245,-1.7360053 80.061573,-2.3333382 79.557572,-3.0520063 79.18424,-3.8920119 78.82957,-4.7506765 78.652236,-5.6933451 78.652239,-6.7200206 l 0,-13.2160404 3.024009,0 0,13.07604 c -5e-6,1.3440096 0.373329,2.3986785 1.120003,3.1640097 0.746662,0.7653386 1.745331,1.148006 2.99601,1.1480035 1.250659,2.5e-6 2.249328,-0.3826649 2.996009,-1.1480035 0.765322,-0.7653312 1.14799,-1.8200001 1.148003,-3.1640097 l 0,-13.07604 3.02401,0 0,13.2160404"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path11521"
+                 style="font-size:28.00008583px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 103.93632,-17.220053 0,17.220053 -3.02401,0 0,-17.220053 -5.488018,0 0,-2.716008 14.000048,0 0,2.716008 -5.48802,0"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="text112"
+               transform="matrix(0.73484066,0.67823978,0.67823978,-0.73484066,116.1347,220.8381)">
+              <path
+                 id="path11504"
+                 style="font-size:44.70778656px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 21.370322,-8.9415573 c -2.1e-5,1.5200722 -0.268268,2.8613044 -0.80474,4.0237008 -0.506708,1.1624062 -1.20713,2.1310739 -2.101266,2.9060061 -0.864368,0.7749362 -1.892646,1.35613685 -3.084837,1.74360368 -1.162417,0.38746736 -2.414234,0.58120091 -3.755454,0.58120123 -1.251829,-3.2e-7 -2.4589379,-0.1639287 -3.6213312,-0.49178566 C 6.8402845,-0.5364929 5.8120064,-1.0729858 4.9178565,-1.7883115 4.0236968,-2.5334387 3.2934703,-3.4573987 2.727175,-4.5601942 2.1906794,-5.6927858 1.9075303,-7.0489206 1.877727,-8.6286028 l 4.5601943,0 c 0.029799,0.8643583 0.1937271,1.5945847 0.4917856,2.1906815 0.2980447,0.5961097 0.6855118,1.1027974 1.1624025,1.5200648 0.4768745,0.387472 1.0133674,0.670621 1.6094803,0.8494479 0.6258983,0.1788351 1.2667093,0.2682505 1.9224353,0.2682467 1.520051,3.8e-6 2.756965,-0.4470736 3.710746,-1.3412336 0.983555,-0.9239548 1.47534,-2.2353819 1.475357,-3.9342852 -1.7e-5,-1.6094693 -0.447094,-2.8761893 -1.341234,-3.8001623 -0.864365,-0.953752 -2.190695,-1.430634 -3.978993,-1.430649 l -0.760032,0 0,-3.978993 0.760032,0 c 1.698883,1.9e-5 2.920894,-0.432156 3.666039,-1.296526 0.774919,-0.894135 1.162386,-2.071439 1.162402,-3.531915 -1.6e-5,-1.609455 -0.447094,-2.831467 -1.341234,-3.666038 -0.894169,-0.834518 -2.011863,-1.25179 -3.353083,-1.251818 -1.43066,2.8e-5 -2.563256,0.402398 -3.3977923,1.20711 -0.8047476,0.804766 -1.2667276,1.92246 -1.3859414,3.353084 l -4.5601942,0 c 0.059608,-1.341209 0.3427571,-2.548318 0.849448,-3.621331 0.5066846,-1.072958 1.1773007,-1.982016 2.0118504,-2.727175 0.8345393,-0.745099 1.8032071,-1.311397 2.9060061,-1.698896 1.1027829,-0.41724 2.2949894,-0.625876 3.5766234,-0.625909 1.34122,3.3e-5 2.578134,0.223571 3.710746,0.670617 1.132581,0.417304 2.101248,1.02831 2.906006,1.83302 0.834526,0.774963 1.475337,1.713826 1.922435,2.81659 0.476862,1.073013 0.715303,2.265219 0.715324,3.576623 -2.1e-5,1.698917 -0.357682,3.114663 -1.072987,4.24724 -0.685538,1.10281 -1.654206,1.952257 -2.906006,2.548344 1.371021,0.596119 2.458909,1.505177 3.263669,2.727175 0.804719,1.222025 1.207089,2.816601 1.20711,4.7837327"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path11506"
+                 style="font-size:44.70778656px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                 d="m 44.707787,-16.139511 c -2.2e-5,-2.235371 -0.07454,-4.098193 -0.223539,-5.588473 -0.149048,-1.490237 -0.640833,-2.697346 -1.475357,-3.621331 -1.311447,-1.430622 -3.11466,-2.145946 -5.409642,-2.145974 l -5.85672,0 0,23.1586337 5.85672,0 c 2.294982,4.3e-6 4.098195,-0.7153195 5.409642,-2.1459738 0.834524,-0.9239535 1.326309,-2.2055754 1.475357,-3.8448699 0.149004,-1.639273 0.223517,-3.576609 0.223539,-5.812012 m 4.828441,0 c -2.7e-5,1.162417 -0.01493,2.339721 -0.04471,3.531915 -2.7e-5,1.192219 -0.08944,2.354621 -0.268247,3.4872075 -0.178857,1.1326053 -0.491811,2.2204937 -0.938863,3.2636685 -0.447103,1.0431865 -1.102817,1.9969516 -1.967143,2.8612983 -1.013399,1.0133785 -2.220508,1.7734101 -3.62133,2.28009712 C 41.324879,-0.23844129 39.789913,0 38.091035,0 l -11.176947,0 0,-31.831944 11.176947,0 c 1.698878,3.2e-5 3.233844,0.253376 4.604902,0.760032 1.400822,0.476914 2.607931,1.222043 3.62133,2.23539 0.864326,0.864378 1.52004,1.803241 1.967143,2.81659 0.447052,0.983597 0.760006,2.026777 0.938863,3.129545 0.178805,1.073009 0.26822,2.1758 0.268247,3.308376 0.02978,1.132616 0.04468,2.280115 0.04471,3.4425"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+          <g
+             id="g116">
+            <g
+               id="g118"
+               clip-path="url(#clipPath120-3)">
+              <g
+                 transform="matrix(0.71375003,-0.70040053,-0.70040053,-0.71375003,133.5101,283.4271)"
+                 id="text124">
+                <path
+                   d="m 21.650783,-22.233516 c -2.2e-5,-1.703351 -0.522987,-3.018235 -1.568897,-3.944656 -1.016067,-0.92637 -2.375777,-1.389568 -4.079133,-1.389595 l -6.9927998,0 0,10.623676 6.9927998,0 c 1.703356,1.7e-5 3.063066,-0.448239 4.079133,-1.344769 1.04591,-0.926378 1.568875,-2.241262 1.568897,-3.944656 m 4.841169,0 c -2.7e-5,1.404557 -0.239096,2.704499 -0.71721,3.89983 -0.478166,1.165484 -1.165491,2.181531 -2.06198,3.048144 -0.896535,0.836759 -1.972349,1.509143 -3.227446,2.017153 -1.255137,0.478153 -2.659672,0.717223 -4.213609,0.71721 l -7.2617538,0 0,12.551179 -4.8411689,0 0,-31.915854 12.1029227,0 c 1.553937,3.2e-5 2.958472,0.254043 4.213609,0.762036 1.255097,0.478171 2.330911,1.150554 3.227446,2.017153 0.896489,0.836774 1.583814,1.852821 2.06198,3.048144 0.478114,1.195375 0.717183,2.480375 0.71721,3.855005"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11487"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 48.725468,-22.547296 c -2.2e-5,-1.613699 -0.508045,-2.853873 -1.524072,-3.720528 -0.986183,-0.866602 -2.286125,-1.299916 -3.89983,-1.299943 l -7.172102,0 0,9.996117 7.172102,0 c 1.613705,1.8e-5 2.913647,-0.418355 3.89983,-1.255118 1.016027,-0.866609 1.52405,-2.106784 1.524072,-3.720528 M 48.904771,0 l -6.723846,-13.447691 -6.051461,0 0,13.447691 -4.841169,0 0,-31.915854 12.371876,0 c 1.524054,3.2e-5 2.883763,0.239102 4.079133,0.71721 1.225212,0.448287 2.271143,1.090787 3.137795,1.927503 0.866604,0.806889 1.524046,1.793052 1.972328,2.958492 0.478114,1.135608 0.717184,2.375782 0.71721,3.720528 -2.6e-5,2.301069 -0.612643,4.168802 -1.837851,5.603204 -1.225258,1.404553 -2.734386,2.360832 -4.52739,2.868841 L 54.552801,0 48.904771,0"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11489"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 59.573272,0 0,-31.915854 4.841169,0 0,31.915854 -4.841169,0"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11491"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 91.264996,0 -14.747635,-22.457645 0,22.457645 -4.841169,0 0,-31.915854 4.437739,0 14.747634,22.4128188 0,-22.4128188 4.841169,0 0,31.915854 -4.437738,0"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11493"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 113.76747,-27.567767 0,27.567767 -4.84117,0 0,-27.567767 -8.78582,0 0,-4.348087 22.41282,0 0,4.348087 -8.78583,0"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11495"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 136.67336,0 0,-31.915854 4.84117,0 0,27.5677671 15.37519,0 0,4.3480869 -20.21636,0"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11497"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 171.27877,-24.698926 -4.97565,14.164901 9.81682,0 -4.84117,-14.164901 M 179.66116,0 l -2.19645,-6.4100662 -12.59601,0 L 162.67224,0 l -5.15494,0 11.69949,-31.915854 3.89983,0 L 184.81611,0 179.66116,0"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11499"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 205.48072,-22.995552 c -2e-5,-1.524047 -0.47816,-2.659629 -1.43442,-3.406749 -0.9563,-0.77695 -2.21141,-1.165439 -3.76535,-1.165466 l -7.1721,0 0,9.14443 7.1721,0 c 1.55394,1.8e-5 2.80905,-0.373528 3.76535,-1.120641 0.95626,-0.776957 1.4344,-1.927481 1.43442,-3.451574 m 0.49308,13.7614706 c -2e-5,-1.4344096 -0.44827,-2.5998756 -1.34477,-3.4963996 -0.89653,-0.896499 -2.19647,-1.344755 -3.89983,-1.344769 l -7.62035,0 0,9.7271631 7.62035,0 c 1.70336,4.4e-6 3.0033,-0.4482516 3.89983,-1.3447691 0.8965,-0.9263899 1.34475,-2.1067972 1.34477,-3.5412254 m 4.84117,0.2241282 c -2e-5,1.4643117 -0.23909,2.7642539 -0.71721,3.8998305 -0.47816,1.1057031 -1.15055,2.0470405 -2.01715,2.8240152 -0.83677,0.7470955 -1.85282,1.31488632 -3.04814,1.70337421 C 203.86698,-0.19424424 202.58198,0 201.17746,0 l -12.90978,0 0,-31.915854 12.4167,0 c 2.98835,3.2e-5 5.33423,0.777009 7.03762,2.330933 1.73324,1.553984 2.59986,3.69067 2.59989,6.410066 -3e-5,0.866652 -0.1345,1.673512 -0.40343,2.420585 -0.2391,0.71723 -0.56782,1.374672 -0.98616,1.972328 -0.38852,0.567809 -0.83677,1.060891 -1.34477,1.479246 -0.50805,0.388506 -1.03102,0.687343 -1.5689,0.896513 0.62754,0.239086 1.22521,0.567807 1.79302,0.986164 0.56777,0.418387 1.0758,0.941352 1.52408,1.568897 0.44823,0.597688 0.80683,1.299956 1.07581,2.106805 0.26893,0.806872 0.40341,1.718326 0.40343,2.7343638"
+                   style="font-size:44.82563782px;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Unient DIN CE -Medium;-inkscape-font-specification:UnientDINCE-Medium"
+                   id="path11501"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           inkscape:export-ydpi="5.4159918"
+           inkscape:export-xdpi="5.4159918"
+           inkscape:export-filename="/home/churchyard/tmp/skola/reprap/logotyp/kapka16.png"
+           transform="translate(0,4.8)"
+           id="g11561">
+          <path
+             inkscape:connector-curvature="0"
+             id="path22"
+             style="fill:#f8a30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 222.6294,55.5107 c 36.342,33.628 36.34,88.152 0,121.779 -0.111,0.103 -0.232,0.185 -0.342,0.287 l -65.32,60.444 -62.676,-57.999 c -1.086,-0.914 -2.217,-1.76 -3.266,-2.732 -36.341,-33.629 -36.341,-88.151 0,-121.779 36.34,-33.631 95.262,-33.631 131.604,0" />
+          <path
+             style="opacity:0.7;fill:#ffffff;fill-opacity:1"
+             d="m 232.71875,148.78125 c -8.21125,4.43762 -13.85653,13.02696 -14.0625,22.96875 l -56.71875,10.03125 c -3.91622,-8.29334 -11.97224,-14.22752 -21.5,-15.1875 l -22.5625,20.875 c -1.3575,1.1425 -2.7825,2.19125 -4.09375,3.40625 -0.96094,0.88923 -1.89222,1.80664 -2.8125,2.71875 0.10522,7.06093 2.93714,13.46422 7.5,18.1875 l -38.5,62.34375 c 0.453727,6.37082 1.51464,12.70832 3.1875,18.9375 l 45.625,-74.625 c 2.79708,0.99177 5.80045,1.53125 8.9375,1.53125 0.56705,0 1.12921,-0.059 1.6875,-0.0937 l 14.21875,45.5625 c -10.06625,3.84405 -17.21875,13.58302 -17.21875,25 0,0.81865 0.053,1.63758 0.125,2.4375 l -47.8125,15.75 c 1.727056,3.81655 3.714156,7.53882 5.9375,11.1875 l 45.875,-15.09375 c 4.74139,7.49913 13.12786,12.5 22.65625,12.5 2.18911,0 4.30727,-0.28538 6.34375,-0.78125 l 5.59375,18.09375 c -3.4136,2.41928 -6.21693,5.62427 -8.1875,9.34375 L 101.34375,329.5313 c 3.67976,4.75949 7.81835,9.31944 12.4375,13.59375 0.97697,0.90414 1.96623,1.791 2.96875,2.65625 l 47.0625,10.25 c -0.001,0.11488 0,0.22852 0,0.34375 0,5.66456 1.74318,10.92647 4.75,15.25 13.88292,3.10903 28.26264,3.80278 42.375,2.125 3.99405,-4.67328 6.40625,-10.74208 6.40625,-17.375 0,-1.11776 -0.0857,-2.23073 -0.21875,-3.3125 l 55.5625,-19.5 c 1.86672,3.11241 4.35225,5.8118 7.28125,7.9375 13.7107,-13.21782 23.09444,-28.85729 28.09375,-45.40625 -3.71233,-1.94423 -7.92681,-3.03125 -12.40625,-3.03125 -0.78401,0 -1.54561,0.0277 -2.3125,0.0937 l -33.6875,-98.21875 c 4.47196,-2.82127 8.02431,-6.94328 10.1875,-11.8125 l -37.125,-34.34375 z m -11.4375,35.15625 c 1.21666,2.51826 2.84308,4.80911 4.75,6.8125 l -53.1875,74.75 c -2.11257,-0.81945 -4.35453,-1.39721 -6.6875,-1.65625 L 151.34375,216.25 c 7.63723,-4.52577 12.79981,-12.76902 13.09375,-22.21875 l 56.84375,-10.09375 z m 15.34375,13.625 c 2.75751,0.96045 5.6964,1.5 8.78125,1.5 0.88191,0 1.76497,-0.0416 2.625,-0.125 L 281.3125,297.25 c -3.94534,2.51471 -7.1972,6.02277 -9.375,10.1875 l -82,-17.25 c -0.0613,-6.65395 -2.58149,-12.69389 -6.65625,-17.34375 L 236.625,197.5625 z m -49.59375,104.96875 81.875,17.21875 c -5e-5,0.021 0,0.0415 0,0.0625 0,0.62973 0.0197,1.25614 0.0625,1.875 l -56.28125,19.59375 c -4.81987,-7.04635 -12.91215,-11.6875 -22.09375,-11.6875 -1.28895,0 -2.57221,0.10508 -3.8125,0.28125 l -6,-19.3125 c 2.56423,-2.24709 4.69321,-4.96158 6.25,-8.03125 z"
+             transform="matrix(0.8,0,0,-0.8,0,330)"
+             id="path11410"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <script
+     ns0:version="1.5.5"
+     id="JessyInk">// Copyright 2008, 2009 Hannes Hochreiner
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see http://www.gnu.org/licenses/.
+
+// Set onload event handler.
+window.onload = jessyInkInit;
+
+// Creating a namespace dictionary. The standard Inkscape namespaces are taken from inkex.py.
+var NSS = new Object();
+NSS['sodipodi']='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd';
+NSS['cc']='http://web.resource.org/cc/';
+NSS['svg']='http://www.w3.org/2000/svg';
+NSS['dc']='http://purl.org/dc/elements/1.1/';
+NSS['rdf']='http://www.w3.org/1999/02/22-rdf-syntax-ns#';
+NSS['inkscape']='http://www.inkscape.org/namespaces/inkscape';
+NSS['xlink']='http://www.w3.org/1999/xlink';
+NSS['xml']='http://www.w3.org/XML/1998/namespace';
+NSS['jessyink']='https://launchpad.net/jessyink';
+
+// Keycodes.
+var LEFT_KEY = 37; // cursor left keycode
+var UP_KEY = 38; // cursor up keycode
+var RIGHT_KEY = 39; // cursor right keycode
+var DOWN_KEY = 40; // cursor down keycode
+var PAGE_UP_KEY = 33; // page up keycode
+var PAGE_DOWN_KEY = 34; // page down keycode
+var HOME_KEY = 36; // home keycode
+var END_KEY = 35; // end keycode
+var ENTER_KEY = 13; // next slide
+var SPACE_KEY = 32;
+var ESCAPE_KEY = 27;
+
+// Presentation modes.
+var SLIDE_MODE = 1;
+var INDEX_MODE = 2;
+var DRAWING_MODE = 3;
+
+// Mouse handler actions.
+var MOUSE_UP = 1;
+var MOUSE_DOWN = 2;
+var MOUSE_MOVE = 3;
+var MOUSE_WHEEL = 4;
+
+// Parameters.
+var ROOT_NODE = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;svg&quot;)[0];
+var HEIGHT = 0;
+var WIDTH = 0;
+var INDEX_COLUMNS_DEFAULT = 4;
+var INDEX_COLUMNS = INDEX_COLUMNS_DEFAULT;
+var INDEX_OFFSET = 0;
+var STATE_START = -1;
+var STATE_END = -2;
+var BACKGROUND_COLOR = null;
+var slides = new Array();
+
+// Initialisation.
+var currentMode = SLIDE_MODE;
+var masterSlide = null;
+var activeSlide = 0;
+var activeEffect = 0;
+var timeStep = 30; // 40 ms equal 25 frames per second.
+var lastFrameTime = null;
+var processingEffect = false;
+var transCounter = 0;
+var effectArray = 0;
+var defaultTransitionInDict = new Object();
+defaultTransitionInDict[&quot;name&quot;] = &quot;appear&quot;;
+var defaultTransitionOutDict = new Object();
+defaultTransitionOutDict[&quot;name&quot;] = &quot;appear&quot;;
+var jessyInkInitialised = false;
+
+// Initialise char and key code dictionaries.
+var charCodeDictionary = getDefaultCharCodeDictionary();
+var keyCodeDictionary = getDefaultKeyCodeDictionary();
+
+// Initialise mouse handler dictionary.
+var mouseHandlerDictionary = getDefaultMouseHandlerDictionary();
+
+var progress_bar_visible = false;
+var timer_elapsed = 0;
+var timer_start = timer_elapsed;
+var timer_duration = 15; // 15 minutes
+
+var history_counter = 0;
+var history_original_elements = new Array();
+var history_presentation_elements = new Array();
+
+var mouse_original_path = null;
+var mouse_presentation_path = null;
+var mouse_last_x = -1;
+var mouse_last_y = -1;
+var mouse_min_dist_sqr = 3 * 3;
+var path_colour = &quot;red&quot;;
+var path_width_default = 3;
+var path_width = path_width_default;
+var path_paint_width = path_width;
+
+var number_of_added_slides = 0;
+
+/** Initialisation function.
+ *  The whole presentation is set-up in this function.
+ */
+function jessyInkInit()
+{
+	// Make sure we only execute this code once. Double execution can occur if the onload event handler is set
+	// in the main svg tag as well (as was recommended in earlier versions). Executing this function twice does
+	// not lead to any problems, but it takes more time.
+	if (jessyInkInitialised)
+		return;
+
+	// Making the presentation scaleable.
+	var VIEWBOX = ROOT_NODE.getAttribute(&quot;viewBox&quot;);
+
+	if (VIEWBOX)
+	{
+		WIDTH = ROOT_NODE.viewBox.animVal.width;
+		HEIGHT = ROOT_NODE.viewBox.animVal.height;
+	}
+	else
+	{
+		HEIGHT = parseFloat(ROOT_NODE.getAttribute(&quot;height&quot;));
+		WIDTH = parseFloat(ROOT_NODE.getAttribute(&quot;width&quot;));
+		ROOT_NODE.setAttribute(&quot;viewBox&quot;, &quot;0 0 &quot; + WIDTH + &quot; &quot; + HEIGHT);
+	}
+
+	ROOT_NODE.setAttribute(&quot;width&quot;, &quot;100%&quot;);
+	ROOT_NODE.setAttribute(&quot;height&quot;, &quot;100%&quot;);
+
+	// Setting the background color.
+	var namedViews = document.getElementsByTagNameNS(NSS[&quot;sodipodi&quot;], &quot;namedview&quot;);
+
+	for (var counter = 0; counter &lt; namedViews.length; counter++)
+	{
+		if (namedViews[counter].hasAttribute(&quot;id&quot;) &amp;&amp; namedViews[counter].hasAttribute(&quot;pagecolor&quot;))
+		{
+			if (namedViews[counter].getAttribute(&quot;id&quot;) == &quot;base&quot;)
+			{
+				BACKGROUND_COLOR = namedViews[counter].getAttribute(&quot;pagecolor&quot;);
+				var newAttribute = &quot;background-color:&quot; + BACKGROUND_COLOR + &quot;;&quot;;
+
+				if (ROOT_NODE.hasAttribute(&quot;style&quot;))
+					newAttribute += ROOT_NODE.getAttribute(&quot;style&quot;);
+
+				ROOT_NODE.setAttribute(&quot;style&quot;, newAttribute);
+			}
+		}
+	}
+
+	// Defining clip-path.
+	var defsNodes = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;defs&quot;);
+
+	if (defsNodes.length &gt; 0)
+	{
+		var existingClipPath = document.getElementById(&quot;jessyInkSlideClipPath&quot;);
+
+		if (!existingClipPath)
+		{
+			var rectNode = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+			var clipPath = document.createElementNS(NSS[&quot;svg&quot;], &quot;clipPath&quot;);
+
+			rectNode.setAttribute(&quot;x&quot;, 0);
+			rectNode.setAttribute(&quot;y&quot;, 0);
+			rectNode.setAttribute(&quot;width&quot;, WIDTH);
+			rectNode.setAttribute(&quot;height&quot;, HEIGHT);
+
+			clipPath.setAttribute(&quot;id&quot;, &quot;jessyInkSlideClipPath&quot;);
+			clipPath.setAttribute(&quot;clipPathUnits&quot;, &quot;userSpaceOnUse&quot;);
+
+			clipPath.appendChild(rectNode);
+			defsNodes[0].appendChild(clipPath);
+		}
+	}
+
+	// Making a list of the slide and finding the master slide.
+	var nodes = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	var tempSlides = new Array();
+	var existingJessyInkPresentationLayer = null;
+
+	for (var counter = 0; counter &lt; nodes.length; counter++)
+	{
+		if (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;) &amp;&amp; (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;) == &quot;layer&quot;))
+		{
+			if (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;) &amp;&amp; nodes[counter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;masterSlide&quot;) == &quot;masterSlide&quot;)
+				masterSlide = nodes[counter];
+			else if (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;) &amp;&amp; nodes[counter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;presentationLayer&quot;) == &quot;presentationLayer&quot;)
+				existingJessyInkPresentationLayer = nodes[counter];
+			else
+				tempSlides.push(nodes[counter].getAttribute(&quot;id&quot;));
+		}
+		else if (nodes[counter].getAttributeNS(NSS['jessyink'], 'element'))
+		{
+			handleElement(nodes[counter]);
+		}
+	}
+
+	// Hide master slide set default transitions.
+	if (masterSlide)
+	{
+		masterSlide.style.display = &quot;none&quot;;
+
+		if (masterSlide.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;))
+			defaultTransitionInDict = propStrToDict(masterSlide.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;));
+
+		if (masterSlide.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;))
+			defaultTransitionOutDict = propStrToDict(masterSlide.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;));
+	}
+
+	if (existingJessyInkPresentationLayer != null)
+	{
+		existingJessyInkPresentationLayer.parentNode.removeChild(existingJessyInkPresentationLayer);
+	}
+
+	// Set start slide.
+	var hashObj = new LocationHash(window.location.hash);
+
+	activeSlide = hashObj.slideNumber;
+	activeEffect = hashObj.effectNumber;
+
+	if (activeSlide &lt; 0)
+		activeSlide = 0;
+	else if (activeSlide &gt;= tempSlides.length)
+		activeSlide = tempSlides.length - 1;
+
+	var originalNode = document.getElementById(tempSlides[counter]);
+
+	var JessyInkPresentationLayer = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	JessyInkPresentationLayer.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+	JessyInkPresentationLayer.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, &quot;JessyInk Presentation Layer&quot;);
+	JessyInkPresentationLayer.setAttributeNS(NSS[&quot;jessyink&quot;], &quot;presentationLayer&quot;, &quot;presentationLayer&quot;);
+	JessyInkPresentationLayer.setAttribute(&quot;id&quot;, &quot;jessyink_presentation_layer&quot;);
+	JessyInkPresentationLayer.style.display = &quot;inherit&quot;;
+	ROOT_NODE.appendChild(JessyInkPresentationLayer);
+
+	// Gathering all the information about the transitions and effects of the slides, set the background
+	// from the master slide and substitute the auto-texts.
+	for (var counter = 0; counter &lt; tempSlides.length; counter++)
+	{
+		var originalNode = document.getElementById(tempSlides[counter]);
+		originalNode.style.display = &quot;none&quot;;
+		var node = suffixNodeIds(originalNode.cloneNode(true), &quot;_&quot; + counter);
+		JessyInkPresentationLayer.appendChild(node);
+		slides[counter] = new Object();
+		slides[counter][&quot;original_element&quot;] = originalNode;
+		slides[counter][&quot;element&quot;] = node;
+
+		// Set build in transition.
+		slides[counter][&quot;transitionIn&quot;] = new Object();
+
+		var dict;
+
+		if (node.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;))
+			dict = propStrToDict(node.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;));
+		else
+			dict = defaultTransitionInDict;
+
+		slides[counter][&quot;transitionIn&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+		slides[counter][&quot;transitionIn&quot;][&quot;options&quot;] = new Object();
+
+		for (key in dict)
+			if (key != &quot;name&quot;)
+				slides[counter][&quot;transitionIn&quot;][&quot;options&quot;][key] = dict[key];
+
+		// Set build out transition.
+		slides[counter][&quot;transitionOut&quot;] = new Object();
+
+		if (node.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;))
+			dict = propStrToDict(node.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;));
+		else
+			dict = defaultTransitionOutDict;
+
+		slides[counter][&quot;transitionOut&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+		slides[counter][&quot;transitionOut&quot;][&quot;options&quot;] = new Object();
+
+		for (key in dict)
+			if (key != &quot;name&quot;)
+				slides[counter][&quot;transitionOut&quot;][&quot;options&quot;][key] = dict[key];
+
+		// Copy master slide content.
+		if (masterSlide)
+		{
+			var clonedNode = suffixNodeIds(masterSlide.cloneNode(true), &quot;_&quot; + counter);
+			clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;);
+			clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;);
+			clonedNode.style.display = &quot;inherit&quot;;
+
+			node.insertBefore(clonedNode, node.firstChild);
+		}
+
+		// Setting clip path.
+		node.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+
+		// Substitute auto texts.
+		substituteAutoTexts(node, node.getAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;), counter + 1, tempSlides.length);
+
+		node.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;);
+		node.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;);
+
+		// Set effects.
+		var tempEffects = new Array();
+		var groups = new Object();
+
+		for (var IOCounter = 0; IOCounter &lt;= 1; IOCounter++)
+		{
+			var propName = &quot;&quot;;
+			var dir = 0;
+
+			if (IOCounter == 0)
+			{
+				propName = &quot;effectIn&quot;;
+				dir = 1;
+			}
+			else if (IOCounter == 1)
+			{
+				propName = &quot;effectOut&quot;;
+				dir = -1;
+			}
+
+			var effects = getElementsByPropertyNS(node, NSS[&quot;jessyink&quot;], propName);
+
+			for (var effectCounter = 0; effectCounter &lt; effects.length; effectCounter++)
+			{
+				var element = document.getElementById(effects[effectCounter]);
+				var dict = propStrToDict(element.getAttributeNS(NSS[&quot;jessyink&quot;], propName));
+
+				// Put every element that has an effect associated with it, into its own group.
+				// Unless of course, we already put it into its own group.
+				if (!(groups[element.id]))
+				{
+					var newGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+					element.parentNode.insertBefore(newGroup, element);
+					newGroup.appendChild(element.parentNode.removeChild(element));
+					groups[element.id] = newGroup;
+				}
+
+				var effectDict = new Object();
+
+				effectDict[&quot;effect&quot;] = dict[&quot;name&quot;];
+				effectDict[&quot;dir&quot;] = dir;
+				effectDict[&quot;element&quot;] = groups[element.id];
+
+				for (var option in dict)
+				{
+					if ((option != &quot;name&quot;) &amp;&amp; (option != &quot;order&quot;))
+					{
+						if (!effectDict[&quot;options&quot;])
+							effectDict[&quot;options&quot;] = new Object();
+
+						effectDict[&quot;options&quot;][option] = dict[option];
+					}
+				}
+
+				if (!tempEffects[dict[&quot;order&quot;]])
+					tempEffects[dict[&quot;order&quot;]] = new Array();
+
+				tempEffects[dict[&quot;order&quot;]][tempEffects[dict[&quot;order&quot;]].length] = effectDict;
+			}
+		}
+
+		// Make invisible, but keep in rendering tree to ensure that bounding box can be calculated.
+		node.setAttribute(&quot;opacity&quot;,0);
+		node.style.display = &quot;inherit&quot;;
+
+		// Create a transform group.
+		var transformGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+		// Add content to transform group.
+		while (node.firstChild)
+			transformGroup.appendChild(node.firstChild);
+
+		// Transfer the transform attribute from the node to the transform group.
+		if (node.getAttribute(&quot;transform&quot;))
+		{
+			transformGroup.setAttribute(&quot;transform&quot;, node.getAttribute(&quot;transform&quot;));
+			node.removeAttribute(&quot;transform&quot;);
+		}
+
+		// Create a view group.
+		var viewGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+		viewGroup.appendChild(transformGroup);
+		slides[counter][&quot;viewGroup&quot;] = node.appendChild(viewGroup);
+
+		// Insert background.
+		if (BACKGROUND_COLOR != null)
+		{
+			var rectNode = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+
+			rectNode.setAttribute(&quot;x&quot;, 0);
+			rectNode.setAttribute(&quot;y&quot;, 0);
+			rectNode.setAttribute(&quot;width&quot;, WIDTH);
+			rectNode.setAttribute(&quot;height&quot;, HEIGHT);
+			rectNode.setAttribute(&quot;id&quot;, &quot;jessyInkBackground&quot; + counter);
+			rectNode.setAttribute(&quot;fill&quot;, BACKGROUND_COLOR);
+
+			slides[counter][&quot;viewGroup&quot;].insertBefore(rectNode, slides[counter][&quot;viewGroup&quot;].firstChild);
+		}
+
+		// Set views.
+		var tempViews = new Array();
+		var views = getElementsByPropertyNS(node, NSS[&quot;jessyink&quot;], &quot;view&quot;);
+		var matrixOld = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+
+		// Set initial view even if there are no other views.
+		slides[counter][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrixOld.toAttribute());
+		slides[counter].initialView = matrixOld.toAttribute();
+
+		for (var viewCounter = 0; viewCounter &lt; views.length; viewCounter++)
+		{
+			var element = document.getElementById(views[viewCounter]);
+			var dict = propStrToDict(element.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;view&quot;));
+
+			if (dict[&quot;order&quot;] == 0)
+			{
+				matrixOld = pointMatrixToTransformation(rectToMatrix(element)).mult((new matrixSVG()).fromSVGMatrix(slides[counter].viewGroup.getScreenCTM()).inv().mult((new matrixSVG()).fromSVGMatrix(element.parentNode.getScreenCTM())).inv());
+				slides[counter].initialView = matrixOld.toAttribute();
+			}
+			else
+			{
+				var effectDict = new Object();
+
+				effectDict[&quot;effect&quot;] = dict[&quot;name&quot;];
+				effectDict[&quot;dir&quot;] = 1;
+				effectDict[&quot;element&quot;] = slides[counter][&quot;viewGroup&quot;];
+				effectDict[&quot;order&quot;] = dict[&quot;order&quot;];
+
+				for (var option in dict)
+				{
+					if ((option != &quot;name&quot;) &amp;&amp; (option != &quot;order&quot;))
+					{
+						if (!effectDict[&quot;options&quot;])
+							effectDict[&quot;options&quot;] = new Object();
+
+						effectDict[&quot;options&quot;][option] = dict[option];
+					}
+				}
+
+				effectDict[&quot;options&quot;][&quot;matrixNew&quot;] = pointMatrixToTransformation(rectToMatrix(element)).mult((new matrixSVG()).fromSVGMatrix(slides[counter].viewGroup.getScreenCTM()).inv().mult((new matrixSVG()).fromSVGMatrix(element.parentNode.getScreenCTM())).inv());
+
+				tempViews[dict[&quot;order&quot;]] = effectDict;
+			}
+
+			// Remove element.
+			element.parentNode.removeChild(element);
+		}
+
+		// Consolidate view array and append it to the effect array.
+		if (tempViews.length &gt; 0)
+		{
+			for (var viewCounter = 0; viewCounter &lt; tempViews.length; viewCounter++)
+			{
+				if (tempViews[viewCounter])
+				{
+					tempViews[viewCounter][&quot;options&quot;][&quot;matrixOld&quot;] = matrixOld;
+					matrixOld = tempViews[viewCounter][&quot;options&quot;][&quot;matrixNew&quot;];
+
+					if (!tempEffects[tempViews[viewCounter][&quot;order&quot;]])
+						tempEffects[tempViews[viewCounter][&quot;order&quot;]] = new Array();
+
+					tempEffects[tempViews[viewCounter][&quot;order&quot;]][tempEffects[tempViews[viewCounter][&quot;order&quot;]].length] = tempViews[viewCounter];
+				}
+			}
+		}
+
+		// Set consolidated effect array.
+		if (tempEffects.length &gt; 0)
+		{
+			slides[counter][&quot;effects&quot;] = new Array();
+
+			for (var effectCounter = 0; effectCounter &lt; tempEffects.length; effectCounter++)
+			{
+				if (tempEffects[effectCounter])
+					slides[counter][&quot;effects&quot;][slides[counter][&quot;effects&quot;].length] = tempEffects[effectCounter];
+			}
+		}
+
+		node.setAttribute(&quot;onmouseover&quot;, &quot;if ((currentMode == INDEX_MODE) &amp;&amp; ( activeSlide != &quot; + counter + &quot;)) { indexSetActiveSlide(&quot; + counter + &quot;); };&quot;);
+
+		// Set visibility for initial state.
+		if (counter == activeSlide)
+		{
+			node.style.display = &quot;inherit&quot;;
+			node.setAttribute(&quot;opacity&quot;,1);
+		}
+		else
+		{
+			node.style.display = &quot;none&quot;;
+			node.setAttribute(&quot;opacity&quot;,0);
+		}
+	}
+
+	// Set key handler.
+	var jessyInkObjects = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+	for (var counter = 0; counter &lt; jessyInkObjects.length; counter++)
+	{
+		var elem = jessyInkObjects[counter];
+
+		if (elem.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;customKeyBindings&quot;))
+		{
+			if (elem.getCustomKeyBindings != undefined)
+				keyCodeDictionary = elem.getCustomKeyBindings();
+
+			if (elem.getCustomCharBindings != undefined)
+				charCodeDictionary = elem.getCustomCharBindings();
+		}
+	}
+
+	// Set mouse handler.
+	var jessyInkMouseHandler = document.getElementsByTagNameNS(NSS[&quot;jessyink&quot;], &quot;mousehandler&quot;);
+
+	for (var counter = 0; counter &lt; jessyInkMouseHandler.length; counter++)
+	{
+		var elem = jessyInkMouseHandler[counter];
+
+		if (elem.getMouseHandler != undefined)
+		{
+			var tempDict = elem.getMouseHandler();
+
+			for (mode in tempDict)
+			{
+				if (!mouseHandlerDictionary[mode])
+					mouseHandlerDictionary[mode] = new Object();
+
+				for (handler in tempDict[mode])
+					mouseHandlerDictionary[mode][handler] = tempDict[mode][handler];
+			}
+		}
+	}
+
+	// Check effect number.
+	if ((activeEffect &lt; 0) || (!slides[activeSlide].effects))
+	{
+		activeEffect = 0;
+	}
+	else if (activeEffect &gt; slides[activeSlide].effects.length)
+	{
+		activeEffect = slides[activeSlide].effects.length;
+	}
+
+	createProgressBar(JessyInkPresentationLayer);
+	hideProgressBar();
+	setProgressBarValue(activeSlide);
+	setTimeIndicatorValue(0);
+	setInterval(&quot;updateTimer()&quot;, 1000);
+	setSlideToState(activeSlide, activeEffect);
+	jessyInkInitialised = true;
+}
+
+/** Function to subtitute the auto-texts.
+ *
+ *  @param node the node
+ *  @param slideName name of the slide the node is on
+ *  @param slideNumber number of the slide the node is on
+ *  @param numberOfSlides number of slides in the presentation
+ */
+function substituteAutoTexts(node, slideName, slideNumber, numberOfSlides)
+{
+	var texts = node.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;tspan&quot;);
+
+	for (var textCounter = 0; textCounter &lt; texts.length; textCounter++)
+	{
+		if (texts[textCounter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;autoText&quot;) == &quot;slideNumber&quot;)
+			texts[textCounter].firstChild.nodeValue = slideNumber;
+		else if (texts[textCounter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;autoText&quot;) == &quot;numberOfSlides&quot;)
+			texts[textCounter].firstChild.nodeValue = numberOfSlides;
+		else if (texts[textCounter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;autoText&quot;) == &quot;slideTitle&quot;)
+			texts[textCounter].firstChild.nodeValue = slideName;
+	}
+}
+
+/** Convenience function to get an element depending on whether it has a property with a particular name.
+ *	This function emulates some dearly missed XPath functionality.
+ *
+ *  @param node the node
+ *  @param namespace namespace of the attribute
+ *  @param name attribute name
+ */
+function getElementsByPropertyNS(node, namespace, name)
+{
+	var elems = new Array();
+
+	if (node.getAttributeNS(namespace, name))
+		elems.push(node.getAttribute(&quot;id&quot;));
+
+	for (var counter = 0; counter &lt; node.childNodes.length; counter++)
+	{
+		if (node.childNodes[counter].nodeType == 1)
+			elems = elems.concat(getElementsByPropertyNS(node.childNodes[counter], namespace, name));
+	}
+
+	return elems;
+}
+
+/** Function to dispatch the next effect, if there is none left, change the slide.
+ *
+ *  @param dir direction of the change (1 = forwards, -1 = backwards)
+ */
+function dispatchEffects(dir)
+{
+	if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (((dir == 1) &amp;&amp; (activeEffect &lt; slides[activeSlide][&quot;effects&quot;].length)) || ((dir == -1) &amp;&amp; (activeEffect &gt; 0))))
+	{
+		processingEffect = true;
+
+		if (dir == 1)
+		{
+			effectArray = slides[activeSlide][&quot;effects&quot;][activeEffect];
+			activeEffect += dir;
+		}
+		else if (dir == -1)
+		{
+			activeEffect += dir;
+			effectArray = slides[activeSlide][&quot;effects&quot;][activeEffect];
+		}
+
+		transCounter = 0;
+		startTime = (new Date()).getTime();
+		lastFrameTime = null;
+		effect(dir);
+	}
+	else if (((dir == 1) &amp;&amp; (activeSlide &lt; (slides.length - 1))) || (((dir == -1) &amp;&amp; (activeSlide &gt; 0))))
+	{
+		changeSlide(dir);
+	}
+}
+
+/** Function to skip effects and directly either put the slide into start or end state or change slides.
+ *
+ *  @param dir direction of the change (1 = forwards, -1 = backwards)
+ */
+function skipEffects(dir)
+{
+	if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (((dir == 1) &amp;&amp; (activeEffect &lt; slides[activeSlide][&quot;effects&quot;].length)) || ((dir == -1) &amp;&amp; (activeEffect &gt; 0))))
+	{
+		processingEffect = true;
+
+		if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (dir == 1))
+			activeEffect = slides[activeSlide][&quot;effects&quot;].length;
+		else
+			activeEffect = 0;
+
+		if (dir == 1)
+			setSlideToState(activeSlide, STATE_END);
+		else
+			setSlideToState(activeSlide, STATE_START);
+
+		processingEffect = false;
+	}
+	else if (((dir == 1) &amp;&amp; (activeSlide &lt; (slides.length - 1))) || (((dir == -1) &amp;&amp; (activeSlide &gt; 0))))
+	{
+		changeSlide(dir);
+	}
+}
+
+/** Function to change between slides.
+ *
+ *  @param dir direction (1 = forwards, -1 = backwards)
+ */
+function changeSlide(dir)
+{
+	processingEffect = true;
+	effectArray = new Array();
+
+	effectArray[0] = new Object();
+	if (dir == 1)
+	{
+		effectArray[0][&quot;effect&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;name&quot;];
+		effectArray[0][&quot;options&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;options&quot;];
+		effectArray[0][&quot;dir&quot;] = -1;
+	}
+	else if (dir == -1)
+	{
+		effectArray[0][&quot;effect&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;name&quot;];
+		effectArray[0][&quot;options&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;options&quot;];
+		effectArray[0][&quot;dir&quot;] = 1;
+	}
+	effectArray[0][&quot;element&quot;] = slides[activeSlide][&quot;element&quot;];
+
+	activeSlide += dir;
+	setProgressBarValue(activeSlide);
+
+	effectArray[1] = new Object();
+
+	if (dir == 1)
+	{
+		effectArray[1][&quot;effect&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;name&quot;];
+		effectArray[1][&quot;options&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;options&quot;];
+		effectArray[1][&quot;dir&quot;] = 1;
+	}
+	else if (dir == -1)
+	{
+		effectArray[1][&quot;effect&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;name&quot;];
+		effectArray[1][&quot;options&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;options&quot;];
+		effectArray[1][&quot;dir&quot;] = -1;
+	}
+
+	effectArray[1][&quot;element&quot;] = slides[activeSlide][&quot;element&quot;];
+
+	if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (dir == -1))
+		activeEffect = slides[activeSlide][&quot;effects&quot;].length;
+	else
+		activeEffect = 0;
+
+	if (dir == -1)
+		setSlideToState(activeSlide, STATE_END);
+	else
+		setSlideToState(activeSlide, STATE_START);
+
+	transCounter = 0;
+	startTime = (new Date()).getTime();
+	lastFrameTime = null;
+	effect(dir);
+}
+
+/** Function to toggle between index and slide mode.
+*/
+function toggleSlideIndex()
+{
+	var suspendHandle = ROOT_NODE.suspendRedraw(500);
+
+	if (currentMode == SLIDE_MODE)
+	{
+		hideProgressBar();		
+		INDEX_OFFSET = -1;
+		indexSetPageSlide(activeSlide);
+		currentMode = INDEX_MODE;
+	}
+	else if (currentMode == INDEX_MODE)
+	{
+		for (var counter = 0; counter &lt; slides.length; counter++)
+		{
+			slides[counter][&quot;element&quot;].setAttribute(&quot;transform&quot;,&quot;scale(1)&quot;);
+
+			if (counter == activeSlide)
+			{
+				slides[counter][&quot;element&quot;].style.display = &quot;inherit&quot;;
+				slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,1);
+				activeEffect = 0;
+			}
+			else
+			{
+				slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0);
+				slides[counter][&quot;element&quot;].style.display = &quot;none&quot;;
+			}
+		}
+		currentMode = SLIDE_MODE;
+		setSlideToState(activeSlide, STATE_START);
+		setProgressBarValue(activeSlide);
+
+		if (progress_bar_visible)
+		{
+			showProgressBar();
+		}
+	}
+
+	ROOT_NODE.unsuspendRedraw(suspendHandle);
+	ROOT_NODE.forceRedraw();
+}
+
+/** Function to run an effect.
+ *
+ *  @param dir direction in which to play the effect (1 = forwards, -1 = backwards)
+ */
+function effect(dir)
+{
+	var done = true;
+
+	var suspendHandle = ROOT_NODE.suspendRedraw(200);
+
+	for (var counter = 0; counter &lt; effectArray.length; counter++)
+	{
+		if (effectArray[counter][&quot;effect&quot;] == &quot;fade&quot;)
+			done &amp;= fade(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+		else if (effectArray[counter][&quot;effect&quot;] == &quot;appear&quot;)
+			done &amp;= appear(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+		else if (effectArray[counter][&quot;effect&quot;] == &quot;pop&quot;)
+			done &amp;= pop(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+		else if (effectArray[counter][&quot;effect&quot;] == &quot;view&quot;)
+			done &amp;= view(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+	}
+
+	ROOT_NODE.unsuspendRedraw(suspendHandle);
+	ROOT_NODE.forceRedraw();
+
+	if (!done)
+	{
+		var currentTime = (new Date()).getTime();
+		var timeDiff = 1;
+
+		transCounter = currentTime - startTime;
+
+		if (lastFrameTime != null)
+		{
+			timeDiff = timeStep - (currentTime - lastFrameTime);
+
+			if (timeDiff &lt;= 0)
+				timeDiff = 1;
+		}
+
+		lastFrameTime = currentTime;
+
+		window.setTimeout(&quot;effect(&quot; + dir + &quot;)&quot;, timeDiff);
+	}
+	else
+	{
+		window.location.hash = (activeSlide + 1) + '_' + activeEffect;
+		processingEffect = false;
+	}
+}
+
+/** Function to display the index sheet.
+ *
+ *  @param offsetNumber offset number
+ */
+function displayIndex(offsetNumber)
+{
+	var offsetX = 0;
+	var offsetY = 0;
+
+	if (offsetNumber &lt; 0)
+		offsetNumber = 0;
+	else if (offsetNumber &gt;= slides.length)
+		offsetNumber = slides.length - 1;
+
+	for (var counter = 0; counter &lt; slides.length; counter++)
+	{
+		if ((counter &lt; offsetNumber) || (counter &gt; offsetNumber + INDEX_COLUMNS * INDEX_COLUMNS - 1))
+		{
+			slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0);
+			slides[counter][&quot;element&quot;].style.display = &quot;none&quot;;
+		}
+		else
+		{
+			offsetX = ((counter - offsetNumber) % INDEX_COLUMNS) * WIDTH;
+			offsetY = Math.floor((counter - offsetNumber) / INDEX_COLUMNS) * HEIGHT;
+
+			slides[counter][&quot;element&quot;].setAttribute(&quot;transform&quot;,&quot;scale(&quot;+1/INDEX_COLUMNS+&quot;) translate(&quot;+offsetX+&quot;,&quot;+offsetY+&quot;)&quot;);
+			slides[counter][&quot;element&quot;].style.display = &quot;inherit&quot;;
+			slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0.5);
+		}
+
+		setSlideToState(counter, STATE_END);
+	}
+
+	//do we need to save the current offset?
+	if (INDEX_OFFSET != offsetNumber)
+		INDEX_OFFSET = offsetNumber;
+}
+
+/** Function to set the active slide in the slide view.
+ *
+ *  @param nbr index of the active slide
+ */
+function slideSetActiveSlide(nbr)
+{
+	if (nbr &gt;= slides.length)
+		nbr = slides.length - 1;
+	else if (nbr &lt; 0)
+		nbr = 0;
+
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0);
+	slides[activeSlide][&quot;element&quot;].style.display = &quot;none&quot;;
+
+	activeSlide = parseInt(nbr);
+
+	setSlideToState(activeSlide, STATE_START);
+	slides[activeSlide][&quot;element&quot;].style.display = &quot;inherit&quot;;
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,1);
+
+	activeEffect = 0;
+	setProgressBarValue(nbr);
+}
+
+/** Function to set the active slide in the index view.
+ *
+ *  @param nbr index of the active slide
+ */
+function indexSetActiveSlide(nbr)
+{
+	if (nbr &gt;= slides.length)
+		nbr = slides.length - 1;
+	else if (nbr &lt; 0)
+		nbr = 0;
+
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0.5);
+
+	activeSlide = parseInt(nbr);
+	window.location.hash = (activeSlide + 1) + '_0';
+
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,1);
+}
+
+/** Function to set the page and active slide in index view. 
+ *
+ *  @param nbr index of the active slide
+ *
+ *  NOTE: To force a redraw,
+ *  set INDEX_OFFSET to -1 before calling indexSetPageSlide().
+ *
+ *  This is necessary for zooming (otherwise the index might not
+ *  get redrawn) and when switching to index mode.
+ *
+ *  INDEX_OFFSET = -1
+ *  indexSetPageSlide(activeSlide);
+ */
+function indexSetPageSlide(nbr)
+{
+	if (nbr &gt;= slides.length)
+		nbr = slides.length - 1;
+	else if (nbr &lt; 0)
+		nbr = 0;
+
+	//calculate the offset
+	var offset = nbr - nbr % (INDEX_COLUMNS * INDEX_COLUMNS);
+
+	if (offset &lt; 0)
+		offset = 0;
+
+	//if different from kept offset, then record and change the page
+	if (offset != INDEX_OFFSET)
+	{
+		INDEX_OFFSET = offset;
+		displayIndex(INDEX_OFFSET);
+	}
+
+	//set the active slide
+	indexSetActiveSlide(nbr);
+}
+
+/** Event handler for key press.
+ *
+ *  @param e the event
+ */
+function keydown(e)
+{
+	if (!e)
+		e = window.event;
+
+	code = e.keyCode || e.charCode;
+
+	if (!processingEffect &amp;&amp; keyCodeDictionary[currentMode] &amp;&amp; keyCodeDictionary[currentMode][code])
+		return keyCodeDictionary[currentMode][code]();
+	else
+		document.onkeypress = keypress;
+}
+// Set event handler for key down.
+document.onkeydown = keydown;
+
+/** Event handler for key press.
+ *
+ *  @param e the event
+ */
+function keypress(e)
+{
+	document.onkeypress = null;
+
+	if (!e)
+		e = window.event;
+
+	str = String.fromCharCode(e.keyCode || e.charCode);
+
+	if (!processingEffect &amp;&amp; charCodeDictionary[currentMode] &amp;&amp; charCodeDictionary[currentMode][str])
+		return charCodeDictionary[currentMode][str]();
+}
+
+/** Function to supply the default char code dictionary.
+ *
+ * @returns default char code dictionary
+ */
+function getDefaultCharCodeDictionary()
+{
+	var charCodeDict = new Object();
+
+	charCodeDict[SLIDE_MODE] = new Object();
+	charCodeDict[INDEX_MODE] = new Object();
+	charCodeDict[DRAWING_MODE] = new Object();
+
+	charCodeDict[SLIDE_MODE][&quot;i&quot;] = function () { return toggleSlideIndex(); };
+	charCodeDict[SLIDE_MODE][&quot;d&quot;] = function () { return slideSwitchToDrawingMode(); };
+	charCodeDict[SLIDE_MODE][&quot;D&quot;] = function () { return slideQueryDuration(); };
+	charCodeDict[SLIDE_MODE][&quot;n&quot;] = function () { return slideAddSlide(activeSlide); };
+	charCodeDict[SLIDE_MODE][&quot;p&quot;] = function () { return slideToggleProgressBarVisibility(); };
+	charCodeDict[SLIDE_MODE][&quot;t&quot;] = function () { return slideResetTimer(); };
+	charCodeDict[SLIDE_MODE][&quot;e&quot;] = function () { return slideUpdateExportLayer(); };
+
+	charCodeDict[DRAWING_MODE][&quot;d&quot;] = function () { return drawingSwitchToSlideMode(); };
+	charCodeDict[DRAWING_MODE][&quot;0&quot;] = function () { return drawingResetPathWidth(); };
+	charCodeDict[DRAWING_MODE][&quot;1&quot;] = function () { return drawingSetPathWidth(1.0); };
+	charCodeDict[DRAWING_MODE][&quot;3&quot;] = function () { return drawingSetPathWidth(3.0); };
+	charCodeDict[DRAWING_MODE][&quot;5&quot;] = function () { return drawingSetPathWidth(5.0); };
+	charCodeDict[DRAWING_MODE][&quot;7&quot;] = function () { return drawingSetPathWidth(7.0); };
+	charCodeDict[DRAWING_MODE][&quot;9&quot;] = function () { return drawingSetPathWidth(9.0); };
+	charCodeDict[DRAWING_MODE][&quot;b&quot;] = function () { return drawingSetPathColour(&quot;blue&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;c&quot;] = function () { return drawingSetPathColour(&quot;cyan&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;g&quot;] = function () { return drawingSetPathColour(&quot;green&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;k&quot;] = function () { return drawingSetPathColour(&quot;black&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;m&quot;] = function () { return drawingSetPathColour(&quot;magenta&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;o&quot;] = function () { return drawingSetPathColour(&quot;orange&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;r&quot;] = function () { return drawingSetPathColour(&quot;red&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;w&quot;] = function () { return drawingSetPathColour(&quot;white&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;y&quot;] = function () { return drawingSetPathColour(&quot;yellow&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;z&quot;] = function () { return drawingUndo(); };
+
+	charCodeDict[INDEX_MODE][&quot;i&quot;] = function () { return toggleSlideIndex(); };
+	charCodeDict[INDEX_MODE][&quot;-&quot;] = function () { return indexDecreaseNumberOfColumns(); };
+	charCodeDict[INDEX_MODE][&quot;=&quot;] = function () { return indexIncreaseNumberOfColumns(); };
+	charCodeDict[INDEX_MODE][&quot;+&quot;] = function () { return indexIncreaseNumberOfColumns(); };
+	charCodeDict[INDEX_MODE][&quot;0&quot;] = function () { return indexResetNumberOfColumns(); };
+
+	return charCodeDict;
+}
+
+/** Function to supply the default key code dictionary.
+ *
+ * @returns default key code dictionary
+ */
+function getDefaultKeyCodeDictionary()
+{
+	var keyCodeDict = new Object();
+
+	keyCodeDict[SLIDE_MODE] = new Object();
+	keyCodeDict[INDEX_MODE] = new Object();
+	keyCodeDict[DRAWING_MODE] = new Object();
+
+	keyCodeDict[SLIDE_MODE][LEFT_KEY] = function() { return dispatchEffects(-1); };
+	keyCodeDict[SLIDE_MODE][RIGHT_KEY] = function() { return dispatchEffects(1); };
+	keyCodeDict[SLIDE_MODE][UP_KEY] = function() { return skipEffects(-1); };
+	keyCodeDict[SLIDE_MODE][DOWN_KEY] = function() { return skipEffects(1); };
+	keyCodeDict[SLIDE_MODE][PAGE_UP_KEY] = function() { return dispatchEffects(-1); };
+	keyCodeDict[SLIDE_MODE][PAGE_DOWN_KEY] = function() { return dispatchEffects(1); };
+	keyCodeDict[SLIDE_MODE][HOME_KEY] = function() { return slideSetActiveSlide(0); };
+	keyCodeDict[SLIDE_MODE][END_KEY] = function() { return slideSetActiveSlide(slides.length - 1); };
+	keyCodeDict[SLIDE_MODE][SPACE_KEY] = function() { return dispatchEffects(1); };
+
+	keyCodeDict[INDEX_MODE][LEFT_KEY] = function() { return indexSetPageSlide(activeSlide - 1); };
+	keyCodeDict[INDEX_MODE][RIGHT_KEY] = function() { return indexSetPageSlide(activeSlide + 1); };
+	keyCodeDict[INDEX_MODE][UP_KEY] = function() { return indexSetPageSlide(activeSlide - INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][DOWN_KEY] = function() { return indexSetPageSlide(activeSlide + INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][PAGE_UP_KEY] = function() { return indexSetPageSlide(activeSlide - INDEX_COLUMNS * INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][PAGE_DOWN_KEY] = function() { return indexSetPageSlide(activeSlide + INDEX_COLUMNS * INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][HOME_KEY] = function() { return indexSetPageSlide(0); };
+	keyCodeDict[INDEX_MODE][END_KEY] = function() { return indexSetPageSlide(slides.length - 1); };
+	keyCodeDict[INDEX_MODE][ENTER_KEY] = function() { return toggleSlideIndex(); };
+
+	keyCodeDict[DRAWING_MODE][ESCAPE_KEY] = function () { return drawingSwitchToSlideMode(); };
+
+	return keyCodeDict;
+}
+
+/** Function to handle all mouse events.
+ *
+ *	@param	evnt	event
+ *	@param	action	type of event (e.g. mouse up, mouse wheel)
+ */
+function mouseHandlerDispatch(evnt, action)
+{
+	if (!evnt)
+		evnt = window.event;
+
+	var retVal = true;
+
+	if (!processingEffect &amp;&amp; mouseHandlerDictionary[currentMode] &amp;&amp; mouseHandlerDictionary[currentMode][action])
+	{
+		var subRetVal = mouseHandlerDictionary[currentMode][action](evnt);
+
+		if (subRetVal != null &amp;&amp; subRetVal != undefined)
+			retVal = subRetVal;
+	}
+
+	if (evnt.preventDefault &amp;&amp; !retVal)
+		evnt.preventDefault();
+
+	evnt.returnValue = retVal;
+
+	return retVal;
+}
+
+// Set mouse event handler.
+document.onmousedown = function(e) { return mouseHandlerDispatch(e, MOUSE_DOWN); };
+document.onmouseup = function(e) { return mouseHandlerDispatch(e, MOUSE_UP); };
+document.onmousemove = function(e) { return mouseHandlerDispatch(e, MOUSE_MOVE); };
+
+// Moz
+if (window.addEventListener)
+{
+	window.addEventListener('DOMMouseScroll', function(e) { return mouseHandlerDispatch(e, MOUSE_WHEEL); }, false);
+}
+
+// Opera Safari OK - may not work in IE
+window.onmousewheel = function(e) { return mouseHandlerDispatch(e, MOUSE_WHEEL); };
+
+/** Function to supply the default mouse handler dictionary.
+ *
+ * @returns default mouse handler dictionary
+ */
+function getDefaultMouseHandlerDictionary()
+{
+	var mouseHandlerDict = new Object();
+
+	mouseHandlerDict[SLIDE_MODE] = new Object();
+	mouseHandlerDict[INDEX_MODE] = new Object();
+	mouseHandlerDict[DRAWING_MODE] = new Object();
+
+	mouseHandlerDict[SLIDE_MODE][MOUSE_DOWN] = function(evnt) { return dispatchEffects(1); };
+	mouseHandlerDict[SLIDE_MODE][MOUSE_WHEEL] = function(evnt) { return slideMousewheel(evnt); };
+
+	mouseHandlerDict[INDEX_MODE][MOUSE_DOWN] = function(evnt) { return toggleSlideIndex(); };
+
+	mouseHandlerDict[DRAWING_MODE][MOUSE_DOWN] = function(evnt) { return drawingMousedown(evnt); };
+	mouseHandlerDict[DRAWING_MODE][MOUSE_UP] = function(evnt) { return drawingMouseup(evnt); };
+	mouseHandlerDict[DRAWING_MODE][MOUSE_MOVE] = function(evnt) { return drawingMousemove(evnt); };
+
+	return mouseHandlerDict;
+}
+
+/** Function to switch from slide mode to drawing mode.
+*/
+function slideSwitchToDrawingMode()
+{
+	currentMode = DRAWING_MODE;
+
+	var tempDict;
+
+	if (ROOT_NODE.hasAttribute(&quot;style&quot;))
+		tempDict = propStrToDict(ROOT_NODE.getAttribute(&quot;style&quot;));
+	else
+		tempDict = new Object();
+
+	tempDict[&quot;cursor&quot;] = &quot;crosshair&quot;;
+	ROOT_NODE.setAttribute(&quot;style&quot;, dictToPropStr(tempDict));
+}
+
+/** Function to switch from drawing mode to slide mode.
+*/
+function drawingSwitchToSlideMode()
+{
+	currentMode = SLIDE_MODE;
+
+	var tempDict;
+
+	if (ROOT_NODE.hasAttribute(&quot;style&quot;))
+		tempDict = propStrToDict(ROOT_NODE.getAttribute(&quot;style&quot;));
+	else
+		tempDict = new Object();
+
+	tempDict[&quot;cursor&quot;] = &quot;auto&quot;;
+	ROOT_NODE.setAttribute(&quot;style&quot;, dictToPropStr(tempDict));
+}
+
+/** Function to decrease the number of columns in index mode.
+*/
+function indexDecreaseNumberOfColumns()
+{
+	if (INDEX_COLUMNS &gt;= 3)
+	{
+		INDEX_COLUMNS -= 1;
+		INDEX_OFFSET = -1
+			indexSetPageSlide(activeSlide);
+	}
+}
+
+/** Function to increase the number of columns in index mode.
+*/
+function indexIncreaseNumberOfColumns()
+{
+	if (INDEX_COLUMNS &lt; 7)
+	{
+		INDEX_COLUMNS += 1;
+		INDEX_OFFSET = -1
+			indexSetPageSlide(activeSlide);
+	}
+}
+
+/** Function to reset the number of columns in index mode.
+*/
+function indexResetNumberOfColumns()
+{
+	if (INDEX_COLUMNS != INDEX_COLUMNS_DEFAULT)
+	{
+		INDEX_COLUMNS = INDEX_COLUMNS_DEFAULT;
+		INDEX_OFFSET = -1
+			indexSetPageSlide(activeSlide);
+	}
+}
+
+/** Function to reset path width in drawing mode.
+*/
+function drawingResetPathWidth()
+{
+	path_width = path_width_default;
+	set_path_paint_width();
+}
+
+/** Function to set path width in drawing mode.
+ *
+ * @param width new path width
+ */
+function drawingSetPathWidth(width)
+{
+	path_width = width;
+	set_path_paint_width();
+}
+
+/** Function to set path colour in drawing mode.
+ *
+ * @param colour new path colour
+ */
+function drawingSetPathColour(colour)
+{
+	path_colour = colour;
+}
+
+/** Function to query the duration of the presentation from the user in slide mode.
+*/
+function slideQueryDuration()
+{
+	var new_duration = prompt(&quot;Length of presentation in minutes?&quot;, timer_duration);
+
+	if ((new_duration != null) &amp;&amp; (new_duration != ''))
+	{
+		timer_duration = new_duration;
+	}
+
+	updateTimer();
+}
+
+/** Function to add new slide in slide mode.
+ *
+ * @param afterSlide after which slide to insert the new one
+ */
+function slideAddSlide(afterSlide)
+{
+	addSlide(afterSlide);
+	slideSetActiveSlide(afterSlide + 1);
+	updateTimer();
+}
+
+/** Function to toggle the visibility of the progress bar in slide mode.
+*/
+function slideToggleProgressBarVisibility()
+{
+	if (progress_bar_visible)
+	{
+		progress_bar_visible = false;
+		hideProgressBar();
+	}
+	else
+	{
+		progress_bar_visible = true;
+		showProgressBar();
+	}
+}
+
+/** Function to reset the timer in slide mode.
+*/
+function slideResetTimer()
+{
+	timer_start = timer_elapsed;
+	updateTimer();
+}
+
+/** Convenience function to pad a string with zero in front up to a certain length.
+ */
+function padString(str, len)
+{
+	var outStr = str;
+
+	while (outStr.length &lt; len)
+	{
+		outStr = '0' + outStr;
+	}
+
+	return outStr;
+}
+
+/** Function to update the export layer.
+ */
+function slideUpdateExportLayer()
+{
+	// Suspend redraw since we are going to mess with the slides.
+	var suspendHandle = ROOT_NODE.suspendRedraw(2000);
+
+	var tmpActiveSlide = activeSlide;
+	var tmpActiveEffect = activeEffect;
+	var exportedLayers = new Array();
+
+	for (var counterSlides = 0; counterSlides &lt; slides.length; counterSlides++)
+	{
+		var exportNode;
+
+		setSlideToState(counterSlides, STATE_START);
+
+		var maxEffect = 0;
+
+		if (slides[counterSlides].effects)
+		{
+			maxEffect = slides[counterSlides].effects.length;
+		}
+
+		exportNode = slides[counterSlides].element.cloneNode(true);
+		exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+		exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, &quot;slide_&quot; + padString((counterSlides + 1).toString(), slides.length.toString().length) + &quot;_effect_&quot; + padString(&quot;0&quot;, maxEffect.toString().length));
+
+		exportedLayers.push(exportNode);
+
+		if (slides[counterSlides][&quot;effects&quot;])
+		{	
+			for (var counter = 0; counter &lt; slides[counterSlides][&quot;effects&quot;].length; counter++)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[counterSlides][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[counterSlides][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+				}
+
+				var layerName = &quot;slide_&quot; + padString((counterSlides + 1).toString(), slides.length.toString().length) + &quot;_effect_&quot; + padString((counter + 1).toString(), maxEffect.toString().length);
+				exportNode = slides[counterSlides].element.cloneNode(true);
+				exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+				exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, layerName);
+				exportNode.setAttribute(&quot;id&quot;, layerName);
+
+				exportedLayers.push(exportNode);
+			}
+		}
+	}
+
+	activeSlide = tmpActiveSlide;
+	activeEffect = tmpActiveEffect;
+	setSlideToState(activeSlide, activeEffect);
+
+	// Copy image.
+	var newDoc = document.documentElement.cloneNode(true);
+
+	// Delete viewbox form new imag and set width and height.
+	newDoc.removeAttribute('viewbox');
+	newDoc.setAttribute('width', WIDTH);
+	newDoc.setAttribute('height', HEIGHT);
+
+	// Delete all layers and script elements.
+	var nodesToBeRemoved = new Array();
+
+	for (var childCounter = 0; childCounter &lt;  newDoc.childNodes.length; childCounter++)
+	{
+		var child = newDoc.childNodes[childCounter];
+
+		if (child.nodeType == 1)
+		{
+			if ((child.nodeName.toUpperCase() == 'G') || (child.nodeName.toUpperCase() == 'SCRIPT'))
+			{
+				nodesToBeRemoved.push(child);
+			}
+		}
+	}
+
+	for (var ndCounter = 0; ndCounter &lt; nodesToBeRemoved.length; ndCounter++)
+	{
+		var nd = nodesToBeRemoved[ndCounter];
+
+		// Before removing the node, check whether it contains any definitions.
+		var defs = nd.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;defs&quot;);
+
+		for (var defsCounter = 0; defsCounter &lt; defs.length; defsCounter++)
+		{
+			if (defs[defsCounter].id)
+			{
+				newDoc.appendChild(defs[defsCounter].cloneNode(true));
+			}
+		}
+
+		// Remove node.
+		nd.parentNode.removeChild(nd);
+	}
+
+	// Set current layer.
+	if (exportedLayers[0])
+	{
+		var namedView;
+
+		for (var nodeCounter = 0; nodeCounter &lt; newDoc.childNodes.length; nodeCounter++)
+		{
+			if ((newDoc.childNodes[nodeCounter].nodeType == 1) &amp;&amp; (newDoc.childNodes[nodeCounter].getAttribute('id') == 'base'))
+			{
+				namedView = newDoc.childNodes[nodeCounter];
+			}
+		}
+
+		if (namedView)
+		{
+			namedView.setAttributeNS(NSS['inkscape'], 'current-layer', exportedLayers[0].getAttributeNS(NSS['inkscape'], 'label'));
+		}
+	}
+
+	// Add exported layers.
+	while (exportedLayers.length &gt; 0)
+	{
+		var nd = exportedLayers.pop();
+
+		nd.setAttribute(&quot;opacity&quot;,1);
+		nd.style.display = &quot;inherit&quot;;
+
+		newDoc.appendChild(nd);
+	}
+
+	// Serialise the new document.
+	var serializer = new XMLSerializer();
+	var strm = 
+	{
+		content : &quot;&quot;,
+		close : function() {},  
+		flush : function() {},  
+		write : function(str, count) { this.content += str; }  
+	};
+
+	var xml = serializer.serializeToStream(newDoc, strm, 'UTF-8');
+
+	window.location = 'data:application/svg+xml;base64;charset=utf-8,' + window.btoa(strm.content);
+
+	// Unsuspend redraw.
+	ROOT_NODE.unsuspendRedraw(suspendHandle);
+	ROOT_NODE.forceRedraw();
+}
+
+/** Function to undo last drawing operation.
+*/
+function drawingUndo()
+{
+	mouse_presentation_path = null;
+	mouse_original_path = null;
+
+	if (history_presentation_elements.length &gt; 0)
+	{
+		var p = history_presentation_elements.pop();
+		var parent = p.parentNode.removeChild(p);
+
+		p = history_original_elements.pop();
+		parent = p.parentNode.removeChild(p);
+	}
+}
+
+/** Event handler for mouse down in drawing mode.
+ *
+ *  @param e the event
+ */
+function drawingMousedown(e)
+{
+	var value = 0;
+
+	if (e.button)
+		value = e.button;
+	else if (e.which)
+		value = e.which;
+
+	if (value == 1)
+	{
+		history_counter++;
+
+		var p = calcCoord(e);
+
+		mouse_last_x = e.clientX;
+		mouse_last_y = e.clientY;
+		mouse_original_path = document.createElementNS(NSS[&quot;svg&quot;], &quot;path&quot;);
+		mouse_original_path.setAttribute(&quot;stroke&quot;, path_colour);
+		mouse_original_path.setAttribute(&quot;stroke-width&quot;, path_paint_width);
+		mouse_original_path.setAttribute(&quot;fill&quot;, &quot;none&quot;);
+		mouse_original_path.setAttribute(&quot;id&quot;, &quot;path &quot; + Date());
+		mouse_original_path.setAttribute(&quot;d&quot;, &quot;M&quot; + p.x + &quot;,&quot; + p.y);
+		slides[activeSlide][&quot;original_element&quot;].appendChild(mouse_original_path);
+		history_original_elements.push(mouse_original_path);
+
+		mouse_presentation_path = document.createElementNS(NSS[&quot;svg&quot;], &quot;path&quot;);
+		mouse_presentation_path.setAttribute(&quot;stroke&quot;, path_colour);
+		mouse_presentation_path.setAttribute(&quot;stroke-width&quot;, path_paint_width);
+		mouse_presentation_path.setAttribute(&quot;fill&quot;, &quot;none&quot;);
+		mouse_presentation_path.setAttribute(&quot;id&quot;, &quot;path &quot; + Date() + &quot; presentation copy&quot;);
+		mouse_presentation_path.setAttribute(&quot;d&quot;, &quot;M&quot; + p.x + &quot;,&quot; + p.y);
+
+		if (slides[activeSlide][&quot;viewGroup&quot;])
+			slides[activeSlide][&quot;viewGroup&quot;].appendChild(mouse_presentation_path);
+		else
+			slides[activeSlide][&quot;element&quot;].appendChild(mouse_presentation_path);
+
+		history_presentation_elements.push(mouse_presentation_path);
+
+		return false;
+	}
+
+	return true;
+}
+
+/** Event handler for mouse up in drawing mode.
+ *
+ *  @param e the event
+ */
+function drawingMouseup(e)
+{
+	if(!e)
+		e = window.event;
+
+	if (mouse_presentation_path != null)
+	{
+		var p = calcCoord(e);
+		var d = mouse_presentation_path.getAttribute(&quot;d&quot;);
+		d += &quot; L&quot; + p.x + &quot;,&quot; + p.y;
+		mouse_presentation_path.setAttribute(&quot;d&quot;, d);
+		mouse_presentation_path = null;
+		mouse_original_path.setAttribute(&quot;d&quot;, d);
+		mouse_original_path = null;
+
+		return false;
+	}
+
+	return true;
+}
+
+/** Event handler for mouse move in drawing mode.
+ *
+ *  @param e the event
+ */
+function drawingMousemove(e)
+{
+	if(!e)
+		e = window.event;
+
+	var dist = (mouse_last_x - e.clientX) * (mouse_last_x - e.clientX) + (mouse_last_y - e.clientY) * (mouse_last_y - e.clientY);
+
+	if (mouse_presentation_path == null)
+	{
+		return true;
+	}
+
+	if (dist &gt;= mouse_min_dist_sqr)
+	{
+		var p = calcCoord(e);
+		var d = mouse_presentation_path.getAttribute(&quot;d&quot;);
+		d += &quot; L&quot; + p.x + &quot;,&quot; + p.y;
+		mouse_presentation_path.setAttribute(&quot;d&quot;, d);
+		mouse_original_path.setAttribute(&quot;d&quot;, d);
+		mouse_last_x = e.clientX;
+		mouse_last_y = e.clientY;
+	}
+
+	return false;
+}
+
+/** Event handler for mouse wheel events in slide mode.
+ *  based on http://adomas.org/javascript-mouse-wheel/
+ *
+ *  @param e the event
+ */
+function slideMousewheel(e)
+{
+	var delta = 0;
+
+	if (!e)
+		e = window.event;
+
+	if (e.wheelDelta)
+	{ // IE Opera
+		delta = e.wheelDelta/120;
+	}
+	else if (e.detail)
+	{ // MOZ
+		delta = -e.detail/3;
+	}
+
+	if (delta &gt; 0)
+		skipEffects(-1);
+	else if (delta &lt; 0)
+		skipEffects(1);
+
+	if (e.preventDefault)
+		e.preventDefault();
+
+	e.returnValue = false;
+}
+
+/** Event handler for mouse wheel events in index mode.
+ *  based on http://adomas.org/javascript-mouse-wheel/
+ *
+ *  @param e the event
+ */
+function indexMousewheel(e)
+{
+	var delta = 0;
+
+	if (!e)
+		e = window.event;
+
+	if (e.wheelDelta)
+	{ // IE Opera
+		delta = e.wheelDelta/120;
+	}
+	else if (e.detail)
+	{ // MOZ
+		delta = -e.detail/3;
+	}
+
+	if (delta &gt; 0)
+		indexSetPageSlide(activeSlide - INDEX_COLUMNS * INDEX_COLUMNS);
+	else if (delta &lt; 0)
+		indexSetPageSlide(activeSlide + INDEX_COLUMNS * INDEX_COLUMNS);
+
+	if (e.preventDefault)
+		e.preventDefault();
+
+	e.returnValue = false;
+}
+
+/** Function to set the path paint width.
+*/
+function set_path_paint_width()
+{
+	var svgPoint1 = document.documentElement.createSVGPoint();
+	var svgPoint2 = document.documentElement.createSVGPoint();
+
+	svgPoint1.x = 0.0;
+	svgPoint1.y = 0.0;
+	svgPoint2.x = 1.0;
+	svgPoint2.y = 0.0;
+
+	var matrix = slides[activeSlide][&quot;element&quot;].getTransformToElement(ROOT_NODE);
+
+	if (slides[activeSlide][&quot;viewGroup&quot;])
+		matrix = slides[activeSlide][&quot;viewGroup&quot;].getTransformToElement(ROOT_NODE);
+
+	svgPoint1 = svgPoint1.matrixTransform(matrix);
+	svgPoint2 = svgPoint2.matrixTransform(matrix);
+
+	path_paint_width = path_width / Math.sqrt((svgPoint2.x - svgPoint1.x) * (svgPoint2.x - svgPoint1.x) + (svgPoint2.y - svgPoint1.y) * (svgPoint2.y - svgPoint1.y));
+}
+
+/** The view effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect); for the view effect the options need to contain the old and the new matrix.
+ */
+function view(dir, element, time, options)
+{
+	var length = 250;
+	var fraction;
+
+	if (!options[&quot;matrixInitial&quot;])
+	{
+		var tempString = slides[activeSlide][&quot;viewGroup&quot;].getAttribute(&quot;transform&quot;);
+
+		if (tempString)
+			options[&quot;matrixInitial&quot;] = (new matrixSVG()).fromAttribute(tempString);
+		else
+			options[&quot;matrixInitial&quot;] = (new matrixSVG()).fromSVGElements(1, 0, 0, 1, 0, 0);
+	}
+
+	if ((time == STATE_END) || (time == STATE_START))
+		fraction = 1;
+	else
+	{
+		if (options &amp;&amp; options[&quot;length&quot;])
+			length = options[&quot;length&quot;];
+
+		fraction = time / length;
+	}
+
+	if (dir == 1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].toAttribute());
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixNew&quot;].toAttribute());
+
+			set_path_paint_width();
+
+			options[&quot;matrixInitial&quot;] = null;
+			return true;
+		}
+		else
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].mix(options[&quot;matrixNew&quot;], fraction).toAttribute());
+		}
+	}
+	else if (dir == -1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].toAttribute());
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixOld&quot;].toAttribute());
+			set_path_paint_width();
+
+			options[&quot;matrixInitial&quot;] = null;
+			return true;
+		}
+		else
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].mix(options[&quot;matrixOld&quot;], fraction).toAttribute());
+		}
+	}
+
+	return false;
+}
+
+/** The fade effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect)
+ */
+function fade(dir, element, time, options)
+{
+	var length = 250;
+	var fraction;
+
+	if ((time == STATE_END) || (time == STATE_START))
+		fraction = 1;
+	else
+	{
+		if (options &amp;&amp; options[&quot;length&quot;])
+			length = options[&quot;length&quot;];
+
+		fraction = time / length;
+	}
+
+	if (dir == 1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.style.display = &quot;none&quot;;
+			element.setAttribute(&quot;opacity&quot;, 0);
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, 1);
+			return true;
+		}
+		else
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, fraction);
+		}
+	}
+	else if (dir == -1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, 1);
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;opacity&quot;, 0);
+			element.style.display = &quot;none&quot;;
+			return true;
+		}
+		else
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, 1 - fraction);
+		}
+	}
+	return false;
+}
+
+/** The appear effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect)
+ */
+function appear(dir, element, time, options)
+{
+	if (dir == 1)
+	{
+		element.style.display = &quot;inherit&quot;;
+		element.setAttribute(&quot;opacity&quot;,1);
+	}
+	else if (dir == -1)
+	{
+		element.style.display = &quot;none&quot;;
+		element.setAttribute(&quot;opacity&quot;,0);
+	}
+	return true;
+}
+
+/** The pop effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect)
+ */
+function pop(dir, element, time, options)
+{
+	var length = 500;
+	var fraction;
+
+	if ((time == STATE_END) || (time == STATE_START))
+		fraction = 1;
+	else
+	{
+		if (options &amp;&amp; options[&quot;length&quot;])
+			length = options[&quot;length&quot;];
+
+		fraction = time / length;
+	}
+
+	if (dir == 1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;opacity&quot;, 0);
+			element.setAttribute(&quot;transform&quot;, &quot;scale(0)&quot;);
+			element.style.display = &quot;none&quot;;
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;opacity&quot;, 1);
+			element.removeAttribute(&quot;transform&quot;);
+			element.style.display = &quot;inherit&quot;;
+			return true;
+		}
+		else
+		{
+			element.style.display = &quot;inherit&quot;;
+			var opacityFraction = fraction * 3;
+			if (opacityFraction &gt; 1)
+				opacityFraction = 1;
+			element.setAttribute(&quot;opacity&quot;, opacityFraction);
+			var offsetX = WIDTH * (1.0 - fraction) / 2.0;
+			var offsetY = HEIGHT * (1.0 - fraction) / 2.0;
+			element.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + offsetX + &quot;,&quot; + offsetY + &quot;) scale(&quot; + fraction + &quot;)&quot;);
+		}
+	}
+	else if (dir == -1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;opacity&quot;, 1);
+			element.setAttribute(&quot;transform&quot;, &quot;scale(1)&quot;);
+			element.style.display = &quot;inherit&quot;;
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;opacity&quot;, 0);
+			element.removeAttribute(&quot;transform&quot;);
+			element.style.display = &quot;none&quot;;
+			return true;
+		}
+		else
+		{
+			element.setAttribute(&quot;opacity&quot;, 1 - fraction);
+			element.setAttribute(&quot;transform&quot;, &quot;scale(&quot; + 1 - fraction + &quot;)&quot;);
+			element.style.display = &quot;inherit&quot;;
+		}
+	}
+	return false;
+}
+
+/** Function to set a slide either to the start or the end state.
+ *  
+ *  @param slide the slide to use
+ *  @param state the state into which the slide should be set
+ */
+function setSlideToState(slide, state)
+{
+	slides[slide][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, slides[slide].initialView);
+
+	if (slides[slide][&quot;effects&quot;])
+	{	
+		if (state == STATE_END)
+		{
+			for (var counter = 0; counter &lt; slides[slide][&quot;effects&quot;].length; counter++)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[slide][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[slide][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+				}
+			}
+		}
+		else if (state == STATE_START)
+		{
+			for (var counter = slides[slide][&quot;effects&quot;].length - 1; counter &gt;= 0; counter--)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[slide][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[slide][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+				}
+			}
+		}
+		else
+		{
+			setSlideToState(slide, STATE_START);
+
+			for (var counter = 0; counter &lt; slides[slide][&quot;effects&quot;].length &amp;&amp; counter &lt; state; counter++)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[slide][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[slide][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+				}
+			}
+		}
+	}
+
+	window.location.hash = (activeSlide + 1) + '_' + activeEffect;
+}
+
+/** Convenience function to translate a attribute string into a dictionary.
+ *
+ *	@param str the attribute string
+ *  @return a dictionary
+ *  @see dictToPropStr
+ */
+function propStrToDict(str)
+{
+	var list = str.split(&quot;;&quot;);
+	var obj = new Object();
+
+	for (var counter = 0; counter &lt; list.length; counter++)
+	{
+		var subStr = list[counter];
+		var subList = subStr.split(&quot;:&quot;);
+		if (subList.length == 2)
+		{
+			obj[subList[0]] = subList[1];
+		}	
+	}
+
+	return obj;
+}
+
+/** Convenience function to translate a dictionary into a string that can be used as an attribute.
+ *
+ *  @param dict the dictionary to convert
+ *  @return a string that can be used as an attribute
+ *  @see propStrToDict
+ */
+function dictToPropStr(dict)
+{
+	var str = &quot;&quot;;
+
+	for (var key in dict)
+	{
+		str += key + &quot;:&quot; + dict[key] + &quot;;&quot;;
+	}
+
+	return str;
+}
+
+/** Sub-function to add a suffix to the ids of the node and all its children.
+ *	
+ *	@param node the node to change
+ *	@param suffix the suffix to add
+ *	@param replace dictionary of replaced ids
+ *  @see suffixNodeIds
+ */
+function suffixNoneIds_sub(node, suffix, replace)
+{
+	if (node.nodeType == 1)
+	{
+		if (node.getAttribute(&quot;id&quot;))
+		{
+			var id = node.getAttribute(&quot;id&quot;)
+				replace[&quot;#&quot; + id] = id + suffix;
+			node.setAttribute(&quot;id&quot;, id + suffix);
+		}
+
+		if ((node.nodeName == &quot;use&quot;) &amp;&amp; (node.getAttributeNS(NSS[&quot;xlink&quot;], &quot;href&quot;)) &amp;&amp; (replace[node.getAttribute(NSS[&quot;xlink&quot;], &quot;href&quot;)]))
+			node.setAttribute(NSS[&quot;xlink&quot;], &quot;href&quot;, node.getAttribute(NSS[&quot;xlink&quot;], &quot;href&quot;) + suffix);
+
+		if (node.childNodes)
+		{
+			for (var counter = 0; counter &lt; node.childNodes.length; counter++)
+				suffixNoneIds_sub(node.childNodes[counter], suffix, replace);
+		}
+	}
+}
+
+/** Function to add a suffix to the ids of the node and all its children.
+ *	
+ *	@param node the node to change
+ *	@param suffix the suffix to add
+ *  @return the changed node
+ *  @see suffixNodeIds_sub
+ */
+function suffixNodeIds(node, suffix)
+{
+	var replace = new Object();
+
+	suffixNoneIds_sub(node, suffix, replace);
+
+	return node;
+}
+
+/** Function to build a progress bar.
+ *	
+ *  @param parent node to attach the progress bar to
+ */
+function createProgressBar(parent_node)
+{
+	var g = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	g.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+	g.setAttribute(&quot;id&quot;, &quot;layer_progress_bar&quot;);
+	g.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+
+	var rect_progress_bar = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+	rect_progress_bar.setAttribute(&quot;style&quot;, &quot;marker: none; fill: rgb(128, 128, 128); stroke: none;&quot;);
+	rect_progress_bar.setAttribute(&quot;id&quot;, &quot;rect_progress_bar&quot;);
+	rect_progress_bar.setAttribute(&quot;x&quot;, 0);
+	rect_progress_bar.setAttribute(&quot;y&quot;, 0.99 * HEIGHT);
+	rect_progress_bar.setAttribute(&quot;width&quot;, 0);
+	rect_progress_bar.setAttribute(&quot;height&quot;, 0.01 * HEIGHT);
+	g.appendChild(rect_progress_bar);
+
+	var circle_timer_indicator = document.createElementNS(NSS[&quot;svg&quot;], &quot;circle&quot;);
+	circle_timer_indicator.setAttribute(&quot;style&quot;, &quot;marker: none; fill: rgb(255, 0, 0); stroke: none;&quot;);
+	circle_timer_indicator.setAttribute(&quot;id&quot;, &quot;circle_timer_indicator&quot;);
+	circle_timer_indicator.setAttribute(&quot;cx&quot;, 0.005 * HEIGHT);
+	circle_timer_indicator.setAttribute(&quot;cy&quot;, 0.995 * HEIGHT);
+	circle_timer_indicator.setAttribute(&quot;r&quot;, 0.005 * HEIGHT);
+	g.appendChild(circle_timer_indicator);
+
+	parent_node.appendChild(g);
+}
+
+/** Function to hide the progress bar.
+ *	
+ */
+function hideProgressBar()
+{
+	var progress_bar = document.getElementById(&quot;layer_progress_bar&quot;);
+
+	if (!progress_bar)
+	{
+		return;
+	}
+
+	progress_bar.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+}
+
+/** Function to show the progress bar.
+ *	
+ */
+function showProgressBar()
+{
+	var progress_bar = document.getElementById(&quot;layer_progress_bar&quot;);
+
+	if (!progress_bar)
+	{
+		return;
+	}
+
+	progress_bar.setAttribute(&quot;style&quot;, &quot;display: inherit;&quot;);
+}
+
+/** Set progress bar value.
+ *	
+ *	@param value the current slide number
+ *
+ */
+function setProgressBarValue(value)
+{
+	var rect_progress_bar = document.getElementById(&quot;rect_progress_bar&quot;);
+
+	if (!rect_progress_bar)
+	{
+		return;
+	}
+
+	if (value &lt; 1)
+	{
+		// First slide, assumed to be the title of the presentation
+		var x = 0;
+		var w = 0.01 * HEIGHT;
+	}
+	else if (value &gt;= slides.length - 1)
+	{
+		// Last slide, assumed to be the end of the presentation
+		var x = WIDTH - 0.01 * HEIGHT;
+		var w = 0.01 * HEIGHT;
+	}
+	else
+	{
+		value -= 1;
+		value /= (slides.length - 2);
+
+		var x = WIDTH * value;
+		var w = WIDTH / (slides.length - 2);
+	}
+
+	rect_progress_bar.setAttribute(&quot;x&quot;, x);
+	rect_progress_bar.setAttribute(&quot;width&quot;, w);
+}
+
+/** Set time indicator.
+ *	
+ *	@param value the percentage of time elapse so far between 0.0 and 1.0
+ *
+ */
+function setTimeIndicatorValue(value)
+{
+	var circle_timer_indicator = document.getElementById(&quot;circle_timer_indicator&quot;);
+
+	if (!circle_timer_indicator)
+	{
+		return;
+	}
+
+	if (value &lt; 0.0)
+	{
+		value = 0.0;
+	}
+
+	if (value &gt; 1.0)
+	{
+		value = 1.0;
+	}
+
+	var cx = (WIDTH - 0.01 * HEIGHT) * value + 0.005 * HEIGHT;
+	circle_timer_indicator.setAttribute(&quot;cx&quot;, cx);
+}
+
+/** Update timer.
+ *	
+ */
+function updateTimer()
+{
+	timer_elapsed += 1;
+	setTimeIndicatorValue((timer_elapsed - timer_start) / (60 * timer_duration));
+}
+
+/** Convert screen coordinates to document coordinates.
+ *
+ *  @param e event with screen coordinates
+ *
+ *  @return coordinates in SVG file coordinate system	
+ */
+function calcCoord(e)
+{
+	var svgPoint = document.documentElement.createSVGPoint();
+	svgPoint.x = e.clientX + window.pageXOffset;
+	svgPoint.y = e.clientY + window.pageYOffset;
+
+	var matrix = slides[activeSlide][&quot;element&quot;].getScreenCTM();
+
+	if (slides[activeSlide][&quot;viewGroup&quot;])
+		matrix = slides[activeSlide][&quot;viewGroup&quot;].getScreenCTM();
+
+	svgPoint = svgPoint.matrixTransform(matrix.inverse());
+	return svgPoint;
+}
+
+/** Add slide.
+ *
+ *	@param after_slide after which slide the new slide should be inserted into the presentation
+ */
+function addSlide(after_slide)
+{
+	number_of_added_slides++;
+
+	var g = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	g.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+	g.setAttribute(&quot;id&quot;, &quot;Whiteboard &quot; + Date() + &quot; presentation copy&quot;);
+	g.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+
+	var new_slide = new Object();
+	new_slide[&quot;element&quot;] = g;
+
+	// Set build in transition.
+	new_slide[&quot;transitionIn&quot;] = new Object();
+	var dict = defaultTransitionInDict;
+	new_slide[&quot;transitionIn&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+	new_slide[&quot;transitionIn&quot;][&quot;options&quot;] = new Object();
+
+	for (key in dict)
+		if (key != &quot;name&quot;)
+			new_slide[&quot;transitionIn&quot;][&quot;options&quot;][key] = dict[key];
+
+	// Set build out transition.
+	new_slide[&quot;transitionOut&quot;] = new Object();
+	dict = defaultTransitionOutDict;
+	new_slide[&quot;transitionOut&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+	new_slide[&quot;transitionOut&quot;][&quot;options&quot;] = new Object();
+
+	for (key in dict)
+		if (key != &quot;name&quot;)
+			new_slide[&quot;transitionOut&quot;][&quot;options&quot;][key] = dict[key];
+
+	// Copy master slide content.
+	if (masterSlide)
+	{
+		var clonedNode = suffixNodeIds(masterSlide.cloneNode(true), &quot;_&quot; + Date() + &quot; presentation_copy&quot;);
+		clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;);
+		clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;);
+		clonedNode.style.display = &quot;inherit&quot;;
+
+		g.appendChild(clonedNode);
+	}
+
+	// Substitute auto texts.
+	substituteAutoTexts(g, &quot;Whiteboard &quot; + number_of_added_slides, &quot;W&quot; + number_of_added_slides, slides.length);
+
+	g.setAttribute(&quot;onmouseover&quot;, &quot;if ((currentMode == INDEX_MODE) &amp;&amp; ( activeSlide != &quot; + (after_slide + 1) + &quot;)) { indexSetActiveSlide(&quot; + (after_slide + 1) + &quot;); };&quot;);
+
+	// Create a transform group.
+	var transformGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+	// Add content to transform group.
+	while (g.firstChild)
+		transformGroup.appendChild(g.firstChild);
+
+	// Transfer the transform attribute from the node to the transform group.
+	if (g.getAttribute(&quot;transform&quot;))
+	{
+		transformGroup.setAttribute(&quot;transform&quot;, g.getAttribute(&quot;transform&quot;));
+		g.removeAttribute(&quot;transform&quot;);
+	}
+
+	// Create a view group.
+	var viewGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+	viewGroup.appendChild(transformGroup);
+	new_slide[&quot;viewGroup&quot;] = g.appendChild(viewGroup);
+
+	// Insert background.
+	if (BACKGROUND_COLOR != null)
+	{
+		var rectNode = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+
+		rectNode.setAttribute(&quot;x&quot;, 0);
+		rectNode.setAttribute(&quot;y&quot;, 0);
+		rectNode.setAttribute(&quot;width&quot;, WIDTH);
+		rectNode.setAttribute(&quot;height&quot;, HEIGHT);
+		rectNode.setAttribute(&quot;id&quot;, &quot;jessyInkBackground&quot; + Date());
+		rectNode.setAttribute(&quot;fill&quot;, BACKGROUND_COLOR);
+
+		new_slide[&quot;viewGroup&quot;].insertBefore(rectNode, new_slide[&quot;viewGroup&quot;].firstChild);
+	}
+
+	// Set initial view even if there are no other views.
+	var matrixOld = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+
+	new_slide[&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrixOld.toAttribute());
+	new_slide.initialView = matrixOld.toAttribute();
+
+	// Insert slide
+	var node = slides[after_slide][&quot;element&quot;];
+	var next_node = node.nextSibling;
+	var parent_node = node.parentNode;
+
+	if (next_node)
+	{
+		parent_node.insertBefore(g, next_node);
+	}
+	else
+	{
+		parent_node.appendChild(g);
+	}
+
+	g = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	g.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+	g.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, &quot;Whiteboard &quot; + number_of_added_slides);
+	g.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+	g.setAttribute(&quot;id&quot;, &quot;Whiteboard &quot; + Date());
+	g.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+
+	new_slide[&quot;original_element&quot;] = g;
+
+	node = slides[after_slide][&quot;original_element&quot;];
+	next_node = node.nextSibling;
+	parent_node = node.parentNode;
+
+	if (next_node)
+	{
+		parent_node.insertBefore(g, next_node);
+	}
+	else
+	{
+		parent_node.appendChild(g);
+	}
+
+	before_new_slide = slides.slice(0, after_slide + 1);
+	after_new_slide = slides.slice(after_slide + 1);
+	slides = before_new_slide.concat(new_slide, after_new_slide);
+
+	//resetting the counter attributes on the slides that follow the new slide...
+	for (var counter = after_slide+2; counter &lt; slides.length; counter++)
+	{
+		slides[counter][&quot;element&quot;].setAttribute(&quot;onmouseover&quot;, &quot;if ((currentMode == INDEX_MODE) &amp;&amp; ( activeSlide != &quot; + counter + &quot;)) { indexSetActiveSlide(&quot; + counter + &quot;); };&quot;);
+	}
+}
+
+/** Convenience function to obtain a transformation matrix from a point matrix.
+ *
+ *	@param mPoints Point matrix.
+ *	@return A transformation matrix.
+ */
+function pointMatrixToTransformation(mPoints)
+{
+	mPointsOld = (new matrixSVG()).fromElements(0, WIDTH, WIDTH, 0, 0, HEIGHT, 1, 1, 1);
+
+	return mPointsOld.mult(mPoints.inv());
+}
+
+/** Convenience function to obtain a matrix with three corners of a rectangle.
+ *
+ *	@param rect an svg rectangle
+ *	@return a matrixSVG containing three corners of the rectangle
+ */
+function rectToMatrix(rect)
+{
+	rectWidth = rect.getBBox().width;
+	rectHeight = rect.getBBox().height;
+	rectX = rect.getBBox().x;
+	rectY = rect.getBBox().y;
+	rectXcorr = 0;
+	rectYcorr = 0;
+
+	scaleX = WIDTH / rectWidth;
+	scaleY = HEIGHT / rectHeight;
+
+	if (scaleX &gt; scaleY)
+	{
+		scaleX = scaleY;
+		rectXcorr -= (WIDTH / scaleX - rectWidth) / 2;
+		rectWidth = WIDTH / scaleX;
+	}	
+	else
+	{
+		scaleY = scaleX;
+		rectYcorr -= (HEIGHT / scaleY - rectHeight) / 2;
+		rectHeight = HEIGHT / scaleY;
+	}
+
+	if (rect.transform.baseVal.numberOfItems &lt; 1)
+	{
+		mRectTrans = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+	}
+	else
+	{
+		mRectTrans = (new matrixSVG()).fromSVGMatrix(rect.transform.baseVal.consolidate().matrix);
+	}
+
+	newBasePoints = (new matrixSVG()).fromElements(rectX, rectX, rectX, rectY, rectY, rectY, 1, 1, 1);
+	newVectors = (new matrixSVG()).fromElements(rectXcorr, rectXcorr + rectWidth, rectXcorr + rectWidth, rectYcorr, rectYcorr, rectYcorr + rectHeight, 0, 0, 0);
+
+	return mRectTrans.mult(newBasePoints.add(newVectors));
+}
+
+/** Function to handle JessyInk elements.
+ *
+ *	@param	node	Element node.
+ */
+function handleElement(node)
+{
+	if (node.getAttributeNS(NSS['jessyink'], 'element') == 'core.video')
+	{
+		var url;
+		var width;
+		var height;
+		var x;
+		var y;
+		var transform;
+
+		var tspans = node.getElementsByTagNameNS(&quot;http://www.w3.org/2000/svg&quot;, &quot;tspan&quot;);
+
+		for (var tspanCounter = 0; tspanCounter &lt; tspans.length; tspanCounter++)
+		{
+			if (tspans[tspanCounter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;video&quot;) == &quot;url&quot;)
+			{
+				url = tspans[tspanCounter].firstChild.nodeValue;
+			}
+		}
+
+		var rects = node.getElementsByTagNameNS(&quot;http://www.w3.org/2000/svg&quot;, &quot;rect&quot;);
+
+		for (var rectCounter = 0; rectCounter &lt; rects.length; rectCounter++)
+		{
+			if (rects[rectCounter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;video&quot;) == &quot;rect&quot;)
+			{
+				x = rects[rectCounter].getAttribute(&quot;x&quot;);
+				y = rects[rectCounter].getAttribute(&quot;y&quot;);
+				width = rects[rectCounter].getAttribute(&quot;width&quot;);
+				height = rects[rectCounter].getAttribute(&quot;height&quot;);
+				transform = rects[rectCounter].getAttribute(&quot;transform&quot;);
+			}
+		}
+
+		for (var childCounter = 0; childCounter &lt; node.childNodes.length; childCounter++)
+		{
+			if (node.childNodes[childCounter].nodeType == 1)
+			{
+				if (node.childNodes[childCounter].style)
+				{
+					node.childNodes[childCounter].style.display = 'none';
+				}
+				else
+				{
+					node.childNodes[childCounter].setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+				}
+			}
+		}
+
+		var foreignNode = document.createElementNS(&quot;http://www.w3.org/2000/svg&quot;, &quot;foreignObject&quot;);
+		foreignNode.setAttribute(&quot;x&quot;, x);
+		foreignNode.setAttribute(&quot;y&quot;, y);
+		foreignNode.setAttribute(&quot;width&quot;, width);
+		foreignNode.setAttribute(&quot;height&quot;, height);
+		foreignNode.setAttribute(&quot;transform&quot;, transform);
+
+		var videoNode = document.createElementNS(&quot;http://www.w3.org/1999/xhtml&quot;, &quot;video&quot;);
+		videoNode.setAttribute(&quot;src&quot;, url);
+
+		foreignNode.appendChild(videoNode);
+		node.appendChild(foreignNode);
+	}
+}
+
+/** Class processing the location hash.
+ *
+ *	@param str location hash
+ */
+function LocationHash(str)
+{
+	this.slideNumber = 0;
+	this.effectNumber = 0;
+
+	str = str.substr(1, str.length - 1);
+
+	var parts = str.split('_');
+
+	// Try to extract slide number.
+	if (parts.length &gt;= 1)
+	{
+		try
+		{
+			var slideNumber = parseInt(parts[0]);
+
+			if (!isNaN(slideNumber))
+			{
+				this.slideNumber = slideNumber - 1;
+			}
+		}
+		catch (e)
+		{
+		}
+	}
+	
+	// Try to extract effect number.
+	if (parts.length &gt;= 2)
+	{
+		try
+		{
+			var effectNumber = parseInt(parts[1]);
+
+			if (!isNaN(effectNumber))
+			{
+				this.effectNumber = effectNumber;
+			}
+		}
+		catch (e)
+		{
+		}
+	}
+}
+
+/** Class representing an svg matrix.
+*/
+function matrixSVG()
+{
+	this.e11 = 0; // a
+	this.e12 = 0; // c
+	this.e13 = 0; // e
+	this.e21 = 0; // b
+	this.e22 = 0; // d
+	this.e23 = 0; // f
+	this.e31 = 0;
+	this.e32 = 0;
+	this.e33 = 0;
+}
+
+/** Constructor function.
+ *
+ *	@param a element a (i.e. 1, 1) as described in the svg standard.
+ *	@param b element b (i.e. 2, 1) as described in the svg standard.
+ *	@param c element c (i.e. 1, 2) as described in the svg standard.
+ *	@param d element d (i.e. 2, 2) as described in the svg standard.
+ *	@param e element e (i.e. 1, 3) as described in the svg standard.
+ *	@param f element f (i.e. 2, 3) as described in the svg standard.
+ */
+matrixSVG.prototype.fromSVGElements = function(a, b, c, d, e, f)
+{
+	this.e11 = a;
+	this.e12 = c;
+	this.e13 = e;
+	this.e21 = b;
+	this.e22 = d;
+	this.e23 = f;
+	this.e31 = 0;
+	this.e32 = 0;
+	this.e33 = 1;
+
+	return this;
+}
+
+/** Constructor function.
+ *
+ *	@param matrix an svg matrix as described in the svg standard.
+ */
+matrixSVG.prototype.fromSVGMatrix = function(m)
+{
+	this.e11 = m.a;
+	this.e12 = m.c;
+	this.e13 = m.e;
+	this.e21 = m.b;
+	this.e22 = m.d;
+	this.e23 = m.f;
+	this.e31 = 0;
+	this.e32 = 0;
+	this.e33 = 1;
+
+	return this;
+}
+
+/** Constructor function.
+ *
+ *	@param e11 element 1, 1 of the matrix.
+ *	@param e12 element 1, 2 of the matrix.
+ *	@param e13 element 1, 3 of the matrix.
+ *	@param e21 element 2, 1 of the matrix.
+ *	@param e22 element 2, 2 of the matrix.
+ *	@param e23 element 2, 3 of the matrix.
+ *	@param e31 element 3, 1 of the matrix.
+ *	@param e32 element 3, 2 of the matrix.
+ *	@param e33 element 3, 3 of the matrix.
+ */
+matrixSVG.prototype.fromElements = function(e11, e12, e13, e21, e22, e23, e31, e32, e33)
+{
+	this.e11 = e11;
+	this.e12 = e12;
+	this.e13 = e13;
+	this.e21 = e21;
+	this.e22 = e22;
+	this.e23 = e23;
+	this.e31 = e31;
+	this.e32 = e32;
+	this.e33 = e33;
+
+	return this;
+}
+
+/** Constructor function.
+ *
+ *	@param attrString string value of the &quot;transform&quot; attribute (currently only &quot;matrix&quot; is accepted)
+ */
+matrixSVG.prototype.fromAttribute = function(attrString)
+{
+	str = attrString.substr(7, attrString.length - 8);
+
+	str = str.trim();
+
+	strArray = str.split(&quot;,&quot;);
+
+	// Opera does not use commas to separate the values of the matrix, only spaces.
+	if (strArray.length != 6)
+		strArray = str.split(&quot; &quot;);
+
+	this.e11 = parseFloat(strArray[0]);
+	this.e21 = parseFloat(strArray[1]);
+	this.e31 = 0;
+	this.e12 = parseFloat(strArray[2]);
+	this.e22 = parseFloat(strArray[3]);
+	this.e32 = 0;
+	this.e13 = parseFloat(strArray[4]);
+	this.e23 = parseFloat(strArray[5]);
+	this.e33 = 1;
+
+	return this;
+}
+
+/** Output function
+ *
+ *	@return a string that can be used as the &quot;transform&quot; attribute.
+ */
+matrixSVG.prototype.toAttribute = function()
+{
+	return &quot;matrix(&quot; + this.e11 + &quot;, &quot; + this.e21 + &quot;, &quot; + this.e12 + &quot;, &quot; + this.e22 + &quot;, &quot; + this.e13 + &quot;, &quot; + this.e23 + &quot;)&quot;;
+}
+
+/** Matrix nversion.
+ *
+ *	@return the inverse of the matrix
+ */
+matrixSVG.prototype.inv = function()
+{
+	out = new matrixSVG();
+
+	det = this.e11 * (this.e33 * this.e22 - this.e32 * this.e23) - this.e21 * (this.e33 * this.e12 - this.e32 * this.e13) + this.e31 * (this.e23 * this.e12 - this.e22 * this.e13);
+
+	out.e11 =  (this.e33 * this.e22 - this.e32 * this.e23) / det;
+	out.e12 = -(this.e33 * this.e12 - this.e32 * this.e13) / det;
+	out.e13 =  (this.e23 * this.e12 - this.e22 * this.e13) / det;
+	out.e21 = -(this.e33 * this.e21 - this.e31 * this.e23) / det;
+	out.e22 =  (this.e33 * this.e11 - this.e31 * this.e13) / det;
+	out.e23 = -(this.e23 * this.e11 - this.e21 * this.e13) / det;
+	out.e31 =  (this.e32 * this.e21 - this.e31 * this.e22) / det;
+	out.e32 = -(this.e32 * this.e11 - this.e31 * this.e12) / det;
+	out.e33 =  (this.e22 * this.e11 - this.e21 * this.e12) / det;
+
+	return out;
+}
+
+/** Matrix multiplication.
+ *
+ *	@param op another svg matrix
+ *	@return this * op
+ */
+matrixSVG.prototype.mult = function(op)
+{
+	out = new matrixSVG();
+
+	out.e11 = this.e11 * op.e11 + this.e12 * op.e21 + this.e13 * op.e31;
+	out.e12 = this.e11 * op.e12 + this.e12 * op.e22 + this.e13 * op.e32;
+	out.e13 = this.e11 * op.e13 + this.e12 * op.e23 + this.e13 * op.e33;
+	out.e21 = this.e21 * op.e11 + this.e22 * op.e21 + this.e23 * op.e31;
+	out.e22 = this.e21 * op.e12 + this.e22 * op.e22 + this.e23 * op.e32;
+	out.e23 = this.e21 * op.e13 + this.e22 * op.e23 + this.e23 * op.e33;
+	out.e31 = this.e31 * op.e11 + this.e32 * op.e21 + this.e33 * op.e31;
+	out.e32 = this.e31 * op.e12 + this.e32 * op.e22 + this.e33 * op.e32;
+	out.e33 = this.e31 * op.e13 + this.e32 * op.e23 + this.e33 * op.e33;
+
+	return out;
+}
+
+/** Matrix addition.
+ *
+ *	@param op another svg matrix
+ *	@return this + op
+ */
+matrixSVG.prototype.add = function(op)
+{
+	out = new matrixSVG();
+
+	out.e11 = this.e11 + op.e11;
+	out.e12 = this.e12 + op.e12;
+	out.e13 = this.e13 + op.e13;
+	out.e21 = this.e21 + op.e21;
+	out.e22 = this.e22 + op.e22;
+	out.e23 = this.e23 + op.e23;
+	out.e31 = this.e31 + op.e31;
+	out.e32 = this.e32 + op.e32;
+	out.e33 = this.e33 + op.e33;
+
+	return out;
+}
+
+/** Matrix mixing.
+ *
+ *	@param op another svg matrix
+ *	@parma contribOp contribution of the other matrix (0 &lt;= contribOp &lt;= 1)
+ *	@return (1 - contribOp) * this + contribOp * op
+ */
+matrixSVG.prototype.mix = function(op, contribOp)
+{
+	contribThis = 1.0 - contribOp;
+	out = new matrixSVG();
+
+	out.e11 = contribThis * this.e11 + contribOp * op.e11;
+	out.e12 = contribThis * this.e12 + contribOp * op.e12;
+	out.e13 = contribThis * this.e13 + contribOp * op.e13;
+	out.e21 = contribThis * this.e21 + contribOp * op.e21;
+	out.e22 = contribThis * this.e22 + contribOp * op.e22;
+	out.e23 = contribThis * this.e23 + contribOp * op.e23;
+	out.e31 = contribThis * this.e31 + contribOp * op.e31;
+	out.e32 = contribThis * this.e32 + contribOp * op.e32;
+	out.e33 = contribThis * this.e33 + contribOp * op.e33;
+
+	return out;
+}
+
+/** Trimming function for strings.
+*/
+String.prototype.trim = function()
+{
+	return this.replace(/^\s+|\s+$/g, '');
+}
+
+</script>
+  <style
+     id="style1470"
+     type="text/css">
+	
+@font-face{font-family:'TrebuchetMS-Bold';src:url(&quot;data:;base64,\
+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\
+Bv+gAAv/oAABAAX/wAABAAIAAwAMAAA=&quot;)}
+@font-face{font-family:'Arial-BoldMT';src:url(&quot;data:;base64,\
+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\
+aHRzaXxfCHxfg0IlGvyY+60HDvrtFvut+LIG9weF1X+tHn+seKVwngiecGqUZRtaYH5wZB9kcHFo\
+fV8IfF+EOvsLGvx1+636uveZ+zAH9wzo9wjH9yEbycSAdb4fvnSyb6ZopWidZJZfCJVfkEw5Gg7d\
++LYV6KLmueIeueLMzuC5CLnf6aLzG/c19xdXI/If8iK++xj7Mxr7NVf7GSQiHiEj+xdW+zEbKi6h\
+tzMfMrdIzF3gCF3gdPL3Dhr3tHwVIqQ6vVMeU73Jb9Qb1Mmnw70fvMOk3PYa83LbWsMew1lNp0Ib\
+Qk1vU1kfWVNyOiIaDv04+DQW+636uveZ+ysGuNKzuq+iCKKutJa4G8vJeWjGHzT7iQWqXF+aYhtk\
+aYB2cB9wdXVkfFIIe1KD+wr7SRoO/av5Dvq6Fft0+1T8QAc0jVmPfR6OfJR/mIIIgpiahp4bpbGU\
+nbwfo/tuBW9KQX04G1helJxiH2KcbqF4pnimfa+EuQiFrIjN7hr4Y/sV93T3FfdnB/eu9zgF/AsH\
+DvniFvczB2RSWV9MaghqTEh7RRtES5uqUh9SqmK3csQIcsR+2e8a+TT3rfx8B/spkC+Wah6VaZ5w\
+pngId6augbUbu7aYprEfsaWlrJmyCJmykur3LBr4VPet/roHDvvimfq6Ffe/BveS/Yb3jPmGBfe3\
+BvwL/pJI+01yTXRcdWoZdGpycW53bnZne2GACIBgW4VWG1VWkZZXH3L3cAWCt7OHrhvMvJ6yqh+q\
+saO8nMYIDhwE4xQcBcEVAAAAAAEAAAAKAB4ALAABREZMVAAIAAQAAAAA//8AAQAAAAFrZXJuAAgA\
+AAABAAAAAQAEAAIAAAABAAgAAQAqAAQAAAADABAAFgAgAAEAAv+0AAIAAf+0ABn/tAACAAH/2wAC\
+/2gAAQADAAEAAgAG&quot;)}
+	
+	</style>
+  <style
+     id="style1470-7"
+     type="text/css">
+	
+@font-face{font-family:'TrebuchetMS-Bold';src:url(&quot;data:;base64,\
+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\
+Bv+gAAv/oAABAAX/wAABAAIAAwAMAAA=&quot;)}
+@font-face{font-family:'Arial-BoldMT';src:url(&quot;data:;base64,\
+T1RUTwADACAAAQAQQ0ZGILKMO8AAAACwAAAMSUdQT1OvL77EAAAM/AAAAGxjbWFwAnkCWAAAADwA\
+AAB0AAAAAQAAAAMAAAAMAAQAaAAAABYAEAADAAYAIABDAFAAUwBlAGkAbwByAHUAef//AAAAIABB\
+AE8AUgBhAGcAawByAHQAef///+H/wf+2/7X/qP+n/6b/pP+j/6AAAQAAAAAAAAAAAAAAAAAAAAAA\
+AAAAAAABAAQCAAEBAQ1BcmlhbC1Cb2xkTVQAAQEBOvgbAfgUBPgcDBX76/xDHAgAHAdNBR6gAEiC\
+gSX/i4seoABIgoEl/4uLDAf3YA/3fxD3gRGTHAxBEgACAQFlckFyaWFsKFIpIFRyYWRlbWFyayBv\
+ZiBUaGUgTW9ub3R5cGUgQ29ycG9yYXRpb24gcGxjIHJlZ2lzdGVyZWQgaW4gdGhlIFVTIFBhdCAm\
+IFRNIE9mZi4gYW5kIGVsc2V3aGVyZS4vRlNUeXBlIDAgZGVmAAABAAEAACICADABADMBAEIEAEgC\
+AEwEAFMAAFUBAFoAAAAAGgIAAQAbAB4ATQENAZsCOgKqAzsEBgTaBVIF0wZLBtEHmQf6CBcIRQhU\
+CO4JTAnMCg0KawrICxzK95QWHAUA+pQc+wAH/nSrFfpUHATA/lQGDv4cDpEcBb8W+9YG+xT34QX8\
+3gb7DfvhBfvOBvjPHAW6BffNBrX+ChX7Xvi0+1r8tAUOkfcqHAW6FfjeBvcI4oaCxB/Egb53uGy4\
+bLBjqVgIqViaUUwaRnlMZlIeZlJYYExu5HHQX7tMCLtMo0I2Gkh8S2xMHmxMYFhWZlVlSXQ8glqG\
++wuH+1GKCPyHBve8HATGFfvn91YH9wfTjY6nH76Rs52oqAioqJmxuhq4f7ByqB5yp2WcWpEIjm42\
+jfsfG/s+/NsV/Bz3pgf2zo6RqB+3k6+fp6oIpqqZtL8at4CwdqoedqpsoWOZCJliNJL7GxsOkfrT\
++K8V97MwX/s0QvsLJT4ZPST7FmT7MRv7V/s0zvcZ+xEf+xH3GUz3Sfd7GveIyvdS9xL3Gx73G/cS\
+9zrO92Eb90f3JlYh9wQfzky9Maz7Cfu5RRh612fHVLcIt1RIoTwb+wEzZD1IH0c9afsS+0Ma+02s\
++xjOPB48zuFk9hvazqS9xB/EvbPapPYIDvcM5PloFfcpofcSuPAerNa5zsXGxMbKt9CoCLLm9Z73\
+Cxv3bPdBSPsa9xYf9xX7Gsz7TvuDGvuBS/tN+xX7GR77GvsV+0BI+2sb+277Qc73GfsVH/sV9xlL\
+90v3fRr3xZUV+zqx+xLYNh412Oxg9wob9wrstuDXH9bgsfcT9z4a9zxm9xFC3h7eQSm0+w4b+w4p\
+YThAH0A3ZvsS+z0aDiD3KRYcBbr4bwf3SPcJhHzCH9910VvEQgjEQacs+wkaMXs/ak4eak5iW1lo\
+WGhYc1eACH1EJYT7Ghv7Vfy9BhwEwgT8NPc2B/cJ2ZOash+ymqqjoqwIoayWsbYawHu3bK4ebK5j\
+oFuUCJJoRI4gGw6R9yoWHAW6+QMH9zH3Bn5x0h/ScMNctkgItkigPjQa+wJrMEpEHkpDK177FXjL\
+ZsBitV60XsM80vsG90f7shj79gb7avfTP/cGV9NvqRlvqG2gbJYIlmxZkEcbT/z4BvniBPdvBvci\
+5JGXrh+ul6egn6gIn6iVsLcavH6zcaoecKlmnluTCI5zQ437DBv7ewYOINX4cRX3tKecKq9EwF4Z\
+XsDSdOUb6tOftLwfu7OjusEaroGod6QedqNooFidaJc8oPsPqvszsvsDvEvECDHcXu33CBrWoNG2\
+zB61zMi8260IrdrrnPcFG/dM9x9jOugf6Dq7IJD7G/u8fhh+1nDCYqwIrGFMmzgbNUh5aFofbHR7\
+bWUaaJpuqHIesGzmavckafckafZo0GfQZsFaskwIskyePS4aN3Q8XEIeXEJJVDZoCGc2IHn7Exv7\
+TfsjtuEoHyjgT/cRePc4CA774vf5+XYV+5O5qPK819G8GbzR86T3Hhv3Eel8bsgfyG23ZaReCKRd\
+lzf7DhqI+9wFLpBGlF8elF6bXKRYCPuqBoSegqaAsIaciJaJkFtcWGhUdAh0VFF/TRv7ATWpxkwf\
+TMZr1uYax5nBqLoeqLqzr7+kvqTWoOye9xek5qK+oAinB8F+snCiHqJwWZZBG1lkgXhvH293dGh6\
+Wgj4DPt4FWd/Un09ej16WHtzewhmcXlqYxpkmmmobh5uqLF9uBu+u5ysuR+tpKGqlrAIkqOPuc4a\
+DvcbFhwFuvet/KQH7uLxvPcLG/cV9lwu4B/gLbX7G/tDGvtJYPsgNSkeKTQiWvsPG05QmqpQH1Cp\
+WLhgxgj7MAed+L4V+wKcOq5WHkC8y2bcG8nApsC3H7bAod73Bhr3DXXjX8EewF9TpkYbSFNxV14f\
+XlZ1PCAaDvvi+sX5gBX7qVmCwna1aqcZp2pgmVYbRVNzW2IfYVp2OvsFGvsSoDK2Vx5XtcRx0hvA\
+t5qqrR+tqaO/mdX3qFwYbvsTVCw6SghKOvsBa/sdG/sv+xC87S8fLu1d9xz3QRr3Q7n3HejtHuzo\
+9xG89zIb9xXyb1TYH9dTwjas+wYIDvr1FvuZ9zAGYE5YXlBuCG1QT3xPG/sOI7zuNB807V/3HfdE\
+GvdItfcd4Oke6OD2uvcVG/cL8Voo4h/4pPetB/2C/iQV+wWbOapYHkK4y2bcG8zCp8K4H7jCot33\
+ARr3DnXjX8EewF9TpkYbSFRxVl4fXlZ0OyIaDvvi+Y735hX3rFxnJFI9PlYZVT0qcPsJG/tN+xzH\
+9w0yH0XsaPcO9yca90S59x7n7x7u5/cIvfchG/cy9xFXI+Yf5iK3+zSH+2sI/VQGjTiiSrZdCFy2\
+wXTMG7ewl6OpH6mjorKawAib97AVidx2yWO2CLVjWqBSG05YdV5jH2Ned0+MPggO9w1FFffVZJBm\
+mHGefRl3prWBxBvUwpahsB+kmp2imKwIlKKPtsoa9y8H+wc3IVL7FBv7I/sFx/cNOB9K6mr3C/ci\
+GvdGtvcc4eke6eD2uvcTG/cX9wFR+wfgH/cp95v+TQf7EYEtdk0edk1uWmZoZmhZb013CHdMPIEs\
+G/tI+xSqyUAfQMhl2eoalIuXjJge94/5AxX7BaE5t1ceVrbBccsb0MWmwbofusCj2/Qa9wJ03V7A\
+HsBeUaZGG0hTcVdgH19WdTsgGg74PxwFuhX8rwf15vcAwPcSG8zFf3O/H79zsmymZqVmnWGVXgiU\
+XpBELBr9A/ut+MUH9wOG0oCpHoCpeaNwnQiccGmUYhtcYoB0Zh9mdHFpel4Iel2CRzIa/Kj7rRwF\
+ugcO/hz3JxwEthX3mPet+5gH+60c+0oV+rr3rf66Bw774vcdFhwFuvet/Z4H9934CgX37gb7//wY\
++Bn9NgX7wwb7n/hx+xf7HQX76AcO/hz3JxYcBbr3rRz6RgcO9/D3Evq6FfeX+yUG9wXo9wLD9xQb\
+z8Z9b70fvW+0YatSusS9tcGnCKfBxZnIG9nNe2zBH8Frs1ymTgieXpVBJhr9O/ut+PMH9IHPeKoe\
+s3Fjn1UbZGZ/c2gfaHNyaHxdCHxcg0InGvyS+6342gfyhs6BqR6BqXyhdpoImnZukmcbYGR/dGgf\
+aHRzaXxfCHxfg0IlGvyY+60HDvrtFvut+LIG9weF1X+tHn+seKVwngiecGqUZRtaYH5wZB9kcHFo\
+fV8IfF+EOvsLGvx1+636uveZ+zAH9wzo9wjH9yEbycSAdb4fvnSyb6ZopWidZJZfCJVfkEw5Gg7d\
++LYV6KLmueIeueLMzuC5CLnf6aLzG/c19xdXI/If8iK++xj7Mxr7NVf7GSQiHiEj+xdW+zEbKi6h\
+tzMfMrdIzF3gCF3gdPL3Dhr3tHwVIqQ6vVMeU73Jb9Qb1Mmnw70fvMOk3PYa83LbWsMew1lNp0Ib\
+Qk1vU1kfWVNyOiIaDv04+DQW+636uveZ+ysGuNKzuq+iCKKutJa4G8vJeWjGHzT7iQWqXF+aYhtk\
+aYB2cB9wdXVkfFIIe1KD+wr7SRoO/av5Dvq6Fft0+1T8QAc0jVmPfR6OfJR/mIIIgpiahp4bpbGU\
+nbwfo/tuBW9KQX04G1helJxiH2KcbqF4pnimfa+EuQiFrIjN7hr4Y/sV93T3FfdnB/eu9zgF/AsH\
+DvniFvczB2RSWV9MaghqTEh7RRtES5uqUh9SqmK3csQIcsR+2e8a+TT3rfx8B/spkC+Wah6VaZ5w\
+pngId6augbUbu7aYprEfsaWlrJmyCJmykur3LBr4VPet/roHDvvimfq6Ffe/BveS/Yb3jPmGBfe3\
+BvwL/pJI+01yTXRcdWoZdGpycW53bnZne2GACIBgW4VWG1VWkZZXH3L3cAWCt7OHrhvMvJ6yqh+q\
+saO8nMYIDhwE4xQcBcEVAAAAAAEAAAAKAB4ALAABREZMVAAIAAQAAAAA//8AAQAAAAFrZXJuAAgA\
+AAABAAAAAQAEAAIAAAABAAgAAQAqAAQAAAADABAAFgAgAAEAAv+0AAIAAf+0ABn/tAACAAH/2wAC\
+/2gAAQADAAEAAgAG&quot;)}
+	
+	</style>
+</svg>

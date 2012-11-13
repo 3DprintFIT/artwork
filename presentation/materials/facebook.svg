@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="48"
+   height="48"
+   id="svg4213">
+  <defs
+     id="defs4215">
+    <linearGradient
+       id="linearGradient5060">
+      <stop
+         id="stop5062"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3604"
+         style="stop-color:#000000;stop-opacity:0.7410714"
+         offset="0.5" />
+      <stop
+         id="stop5064"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5050">
+      <stop
+         id="stop5052"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5054"
+         style="stop-color:#437dd3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="374.89822"
+       y1="510.30286"
+       x2="374.89822"
+       y2="550.25195"
+       id="linearGradient4894-6"
+       xlink:href="#linearGradient4829-9-8-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-350.9492,-508.46386)" />
+    <linearGradient
+       id="linearGradient4829-9-8-4">
+      <stop
+         id="stop4831-2-9-9"
+         style="stop-color:#427ac1;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4833-0-2-5"
+         style="stop-color:#2e578c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="23.949152"
+       cy="21.762712"
+       r="19.364307"
+       fx="23.949152"
+       fy="21.762712"
+       id="radialGradient5056"
+       xlink:href="#linearGradient5050"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4673985,-1.1203777e-7,1.0462005e-7,1.370246,-11.193799,-8.0575546)" />
+    <radialGradient
+       cx="23.010933"
+       cy="42.247269"
+       r="20.709841"
+       fx="23.010933"
+       fy="42.247269"
+       id="radialGradient5066"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.125,-1.1092562e-8,0,0.33333331,-2.8763664,28.164847)" />
+  </defs>
+  <g
+     transform="translate(-351,-508.36218)"
+     id="layer1"
+     style="display:none">
+    <image
+       xlink:href="file:///home/ktdreyer/mydocs/dev/writelikeachampion.com/facebook.png"
+       x="351"
+       y="508.36218"
+       width="48"
+       height="48"
+       id="image4290" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <path
+       d="m 46.309504,42.247269 a 23.298571,6.9032798 0 1 1 -46.59714171,0 23.298571,6.9032798 0 1 1 46.59714171,0 z"
+       transform="matrix(1.0052688,0,0,0.79850889,0.86442538,6.7147198)"
+       id="path5058"
+       style="opacity:0.41326533;fill:url(#radialGradient5066);fill-opacity:1;stroke:none" />
+    <rect
+       width="39.66082"
+       height="38.949085"
+       ry="2.8474576"
+       x="4.118628"
+       y="2.3389828"
+       id="rect4827-6"
+       style="fill:url(#linearGradient4894-6);fill-opacity:1;stroke:#204a87;stroke-opacity:1" />
+    <path
+       d="m 4.78125,32.845869 0,4.927966 c 0,1.577492 1.2662585,2.84375 2.84375,2.84375 l 32.633475,0 c 1.577492,0 2.875,-1.266258 2.875,-2.84375 l 0,-4.927966 -38.352225,0 z"
+       id="rect4875"
+       style="fill:#ffffff;fill-opacity:0.59042556;stroke:none" />
+    <path
+       d="m 24.661009,40.847481 0,-19.898306 -3.050847,0 0,-4.881356 3.114342,-0.0781 C 24.411314,8.0663592 27.928193,6.1730509 38.756445,7.0218625 l 0,5.2832455 c -6.504523,-1.393225 -7.387254,0.865661 -7.326335,3.634208 l 5.841069,0 0,4.959012 -5.694915,0 0,19.949152 -6.915255,1e-6 z"
+       id="path4294"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       width="37.728615"
+       height="37.220272"
+       rx="2.085366"
+       ry="2.128366"
+       x="5.0848446"
+       y="3.1525757"
+       id="rect4827-6-7"
+       style="fill:none;stroke:url(#radialGradient5056);stroke-opacity:1;display:inline" />
+  </g>
+</svg>
