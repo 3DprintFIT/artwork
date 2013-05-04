@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="325.00961"
-     inkscape:cy="477.68561"
+     inkscape:zoom="0.35"
+     inkscape:cx="280.24856"
+     inkscape:cy="463.83238"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer15"
      showgrid="false"
      inkscape:window-width="1302"
      inkscape:window-height="744"
@@ -10138,6 +10138,48 @@
     </g>
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Prusa i3"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       y="-2.8782701"
+       x="-4.2160072"
+       id="image14514"
+       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/prusai3.jpg"
+       height="778.08124"
+       width="1034.7469" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Rostock"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       y="-3.4516621"
+       x="-3.5528893"
+       id="image15277"
+       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/rostock.jpg"
+       height="777.2077"
+       width="1036.2769" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Golem"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       y="-396.88519"
+       x="-9.6293268"
+       id="image16040"
+       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/golem.jpg"
+       height="1585.1084"
+       width="1049.5153" />
+  </g>
+  <g
      sodipodi:insensitive="true"
      style="display:none"
      inkscape:label="Glue Gun"
@@ -14345,6 +14387,20 @@
          d="m 1090.8258,235.19721 89.0751,0 0,9.52273 c -20.5558,-3.19176 -73.6582,-6.38352 -89.0751,6.38353 l 0,-15.90626 z"
          style="opacity:0.2627451;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Fuck"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       y="-2.2142851"
+       x="-5.7142987"
+       id="image16804"
+       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/crap.jpg"
+       height="774.71423"
+       width="1165.7144" />
   </g>
   <g
      inkscape:groupmode="layer"
