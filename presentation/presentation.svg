@@ -29,10 +29,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="539.73034"
-     inkscape:cy="386.18483"
+     inkscape:cx="554.36676"
+     inkscape:cy="384.60261"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer16"
      showgrid="false"
      inkscape:window-width="1302"
      inkscape:window-height="744"
@@ -10375,8 +10375,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Prusa i3"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        style="display:inline"
        y="-3.8977649"
@@ -14441,8 +14441,8 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Door stop"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        style="display:inline"
        y="-2.2857001"
@@ -14451,6 +14451,31 @@
        xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/doorstop.jpg"
        height="774.85712"
        width="1033.1428" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Liberator"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       y="-2.5714328"
+       x="-70.857124"
+       id="image13984"
+       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/liberator-gun.jpg"
+       height="773.33331"
+       width="1100" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text12970-6"
+       y="755.65997"
+       x="668.53448"
+       style="font-size:24.37901497px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c3566;fill-opacity:1;stroke:none;display:inline;font-family:Dingbats;-inkscape-font-specification:Dingbats"
+       xml:space="preserve"><tspan
+         y="755.65997"
+         x="668.53448"
+         id="tspan12972-8"
+         sodipodi:role="line">© Robert Beckhusen/WIRED</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
