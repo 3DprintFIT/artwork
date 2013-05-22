@@ -29,10 +29,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="520.90465"
+     inkscape:cx="319.51244"
      inkscape:cy="384.60261"
      inkscape:document-units="px"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="g14641"
      showgrid="false"
      inkscape:window-width="1302"
      inkscape:window-height="744"
@@ -15708,6 +15708,134 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Video"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       transform="translate(-434.78725,69.112709)"
+       ns0:element="core.video"
+       id="g14641">
+      <linearGradient
+         inkscape:collect="always"
+         xlink:href="#jessyink.core.video220281"
+         x1="254.72079"
+         y1="615.9538"
+         x2="317.50601"
+         y2="661.42786"
+         gradientUnits="userSpaceOnUse"
+         id="jessyink.core.video228555" />
+      <linearGradient
+         inkscape:collect="always"
+         xlink:href="#jessyink.core.video220281"
+         x1="252.90028"
+         y1="515.85352"
+         x2="319.14331"
+         y2="564.18585"
+         gradientUnits="userSpaceOnUse"
+         id="jessyink.core.video224462" />
+      <linearGradient
+         id="jessyink.core.video220281">
+        <stop
+           style="stop-color:#ffffff;stop-opacity:1;"
+           offset="0"
+           id="stop14646" />
+        <stop
+           style="stop-color:#bebebe;stop-opacity:1;"
+           offset="1"
+           id="stop14648" />
+      </linearGradient>
+      <linearGradient
+         inkscape:collect="always"
+         xlink:href="#jessyink.core.video220281"
+         x1="255.21498"
+         y1="420.35464"
+         x2="322.05756"
+         y2="475.00314"
+         gradientUnits="userSpaceOnUse"
+         id="jessyink.core.video216007" />
+      <ns0:video />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+         width="1025.4958"
+         height="769.26666"
+         x="434.28632"
+         y="-67.905266"
+         rx="0"
+         ry="0"
+         ns0:video="rect"
+         transform="matrix(0.99999902,-0.00139964,9.7161068e-4,0.99999953,0,0)"
+         id="rect14651" />
+      <rect
+         style="font-size:20px;fill:#dfdfdf;fill-opacity:1;stroke:#000000;stroke-width:3.48164916;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         width="388.22516"
+         height="75.056519"
+         x="737.79498"
+         y="175.88173"
+         rx="12"
+         ry="11.999999"
+         sodipodi:insensitive="true"
+         id="rect14653" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="788.77039"
+         y="234.86638"
+         sodipodi:linespacing="125%"
+         id="text14655"><tspan
+           sodipodi:role="line"
+           x="788.77039"
+           y="234.86638"
+           ns0:video="url"
+           id="tspan14657">materials/video.webm</tspan></text>
+      <g
+         transform="matrix(0.35587188,0.26994219,-0.26994219,0.35587188,800.78552,-70.706091)"
+         sodipodi:insensitive="true"
+         id="g14659">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m 209.78125,112.53125 0,290.65625 5.25,0 0,-4.21875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 l 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,4.21875 113,0 0,-4.21875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 l 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,4.21875 5.03125,0 0,-290.65625 -5.03125,0 0,3.34375 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-3.34375 -113,0 0,3.34375 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-3.34375 -5.25,0 z m 8.59375,13.09375 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m -128,19.3125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.5013 3.3125,3.34375 l 0,6.1875 c 0,1.84245 -1.47005,3.34375 -3.3125,3.34375 l -8.34375,0 c -1.84245,0 -3.34375,-1.5013 -3.34375,-3.34375 l 0,-6.1875 c 0,-1.84245 1.5013,-3.34375 3.34375,-3.34375 z m -128,19.3125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m -128,19.28125 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z m 128,0 8.34375,0 c 1.84245,0 3.3125,1.47005 3.3125,3.3125 l 0,6.21875 c 0,1.84245 -1.47005,3.3125 -3.3125,3.3125 l -8.34375,0 c -1.84245,0 -3.34375,-1.47005 -3.34375,-3.3125 l 0,-6.21875 c 0,-1.84245 1.5013,-3.3125 3.34375,-3.3125 z"
+           transform="translate(0,284.36221)"
+           id="path14661"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:url(#jessyink.core.video216007);fill-opacity:1;stroke:none"
+           width="101.48179"
+           height="82.622345"
+           x="235.6795"
+           y="405.14673"
+           id="rect14663" />
+        <rect
+           style="fill:url(#jessyink.core.video224462);fill-opacity:1;stroke:none"
+           width="101.48179"
+           height="82.622345"
+           x="235.6795"
+           y="501.14676"
+           id="rect14665" />
+        <rect
+           y="597.14679"
+           x="235.6795"
+           height="82.622345"
+           width="101.48179"
+           style="fill:url(#jessyink.core.video228555);fill-opacity:1;stroke:none"
+           id="rect14667" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="811.12927"
+         y="205.86632"
+         sodipodi:linespacing="125%"
+         sodipodi:insensitive="true"
+         id="text14669"><tspan
+           sodipodi:role="line"
+           x="811.12927"
+           y="205.86632"
+           id="tspan14671">JessyInk video element</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Lab"
      style="display:none"
@@ -16200,7 +16328,7 @@
              sodipodi:cy="18.060955"
              sodipodi:rx="1.9873183"
              sodipodi:ry="3.0377579"
-             d="m 39.235342,18.060955 a 1.9873183,3.0377579 0 1 1 -3.974636,0 1.9873183,3.0377579 0 1 1 3.974636,0 z"
+             d="m 39.235342,18.060955 c 0,1.677707 -0.889752,3.037758 -1.987318,3.037758 -1.097566,0 -1.987318,-1.360051 -1.987318,-3.037758 0,-1.677707 0.889752,-3.037758 1.987318,-3.037758 1.097566,0 1.987318,1.360051 1.987318,3.037758 z"
              transform="matrix(0.6668293,0.1888411,-0.1861451,0.6514344,64.192141,10.123333)" />
         </g>
         <rect
@@ -19957,4 +20085,62 @@ AAABAAAAAQAEAAIAAAABAAgAAQAqAAQAAAADABAAFgAgAAEAAv+0AAIAAf+0ABn/tAACAAH/2wAC\
 /2gAAQADAAEAAgAG&quot;)}
 	
 	</style>
+  <ns0:mousehandler
+     ns0:subtype="jessyInk_core_mouseHandler_noclick">
+    <script
+       id="script19678">// Copyright 2008, 2009 Hannes Hochreiner
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see http://www.gnu.org/licenses/.
+
+// Add event listener for initialisation.
+document.addEventListener(&quot;DOMContentLoaded&quot;,  jessyInk_core_mouseHandler_noclick_init, false);
+
+/** Initialisation function.
+ *  
+ *  This function looks for the objects of the appropriate sub-type and hands them to another function that will add the required methods.
+ */
+function jessyInk_core_mouseHandler_noclick_init()
+{
+	var elems = document.getElementsByTagNameNS(&quot;https://launchpad.net/jessyink&quot;, &quot;mousehandler&quot;);
+
+	for (var counter = 0; counter &lt; elems.length; counter++)
+	{
+		if (elems[counter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;subtype&quot;) == &quot;jessyInk_core_mouseHandler_noclick&quot;)
+			jessyInk_core_mouseHandler_noclick(elems[counter]);
+	}
+}
+
+/** Function to initialise an object.
+ *
+ *  @param obj Object to be initialised.
+ */
+function jessyInk_core_mouseHandler_noclick(obj)
+{
+	/** Function supplying a custom mouse handler.
+	 *
+	 *  @returns A dictionary containing the new mouse handler functions.
+	 */
+	obj.getMouseHandler = function ()
+	{
+		var handlerDictio = new Object();
+
+		handlerDictio[SLIDE_MODE] = new Object();
+		handlerDictio[SLIDE_MODE][MOUSE_DOWN] = null;
+
+		return handlerDictio;
+	}
+}
+
+</script>
+  </ns0:mousehandler>
 </svg>
