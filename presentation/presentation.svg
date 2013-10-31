@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1001.4327"
-     inkscape:cy="682.67893"
+     inkscape:zoom="0.7"
+     inkscape:cx="512"
+     inkscape:cy="354.16687"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="g14834"
      showgrid="false"
      inkscape:window-width="1302"
      inkscape:window-height="744"
@@ -4849,7 +4849,7 @@
        style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Logo"
      id="layer3"
      inkscape:groupmode="layer"
@@ -5896,7 +5896,8 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Fedora"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        y="-0.79857737"
        x="-61.428589"
@@ -7335,13 +7336,13 @@
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="588.85712"
+       x="10.857117"
        y="760.85712"
        id="text16100"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan16102"
-         x="588.85712"
+         x="10.857117"
          y="760.85712"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dingbats;-inkscape-font-specification:Dingbats">http://www.newswise.com/articles/3d-printing-the-greener-choice</tspan></text>
   </g>
