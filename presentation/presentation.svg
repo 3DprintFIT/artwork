@@ -5733,7 +5733,7 @@
        y="-5.8335648"
        x="-4.6555328"
        id="image13271"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/prusamendel.jpg"
+       xlink:href="materials/prusamendel.jpg"
        height="778.57642"
        width="1172.5549" />
   </g>
@@ -5748,7 +5748,7 @@
        y="-3.8977649"
        x="-5.9449072"
        id="image14514"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/prusai3.jpg"
+       xlink:href="materials/prusai3.jpg"
        height="778.08124"
        width="1034.7469" />
     <text
@@ -5779,7 +5779,7 @@
        y="-3.4609942"
        x="-5.2812676"
        id="image15277"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/rostock.jpg"
+       xlink:href="materials/rostock.jpg"
        height="777.2077"
        width="1036.2769" />
     <text
@@ -5902,7 +5902,7 @@
        y="-5.2872572"
        x="-2.7776623"
        id="image19345"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/bieber.jpg"
+       xlink:href="materials/bieber.jpg"
        height="824.85712"
        width="1030.889" />
     <text
@@ -5932,7 +5932,7 @@
        y="-0.79857737"
        x="-61.428589"
        id="image21685"
-       xlink:href="file:///usr/share/backgrounds/schroedinger-cat/extras/fedora-printed.jpg"
+       xlink:href="materials/fedora-printed.jpg"
        height="769.29547"
        width="1157.7144" />
   </g>
@@ -5946,7 +5946,7 @@
        y="-1.7589281"
        x="-28.285717"
        id="image14414"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/filaflex.jpg"
+       xlink:href="materials/filaflex.jpg"
        height="770.94641"
        width="1157.1428" />
     <text
@@ -7386,7 +7386,7 @@
        y="-4.5064912"
        x="-3.4097254"
        id="image17084"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/smoke.jpg"
+       xlink:href="materials/smoke.jpg"
        height="776.23859"
        width="1034.9847" />
     <text
@@ -7566,7 +7566,7 @@
        y="-2.2142551"
        x="-8.5714722"
        id="image16804"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/crap.jpg"
+       xlink:href="materials/crap.jpg"
        height="774.71423"
        width="1165.7144" />
   </g>
@@ -7581,28 +7581,28 @@
        y="-0.93344986"
        x="-74.571449"
        id="image21685-4"
-       xlink:href="file:///usr/share/backgrounds/schroedinger-cat/extras/fedora-printed.jpg"
+       xlink:href="materials/fedora-printed.jpg"
        height="769.29547"
        width="1157.7144" />
     <image
        y="28.001715"
        x="20.285715"
        id="image19891"
-       xlink:href="file:///home/churchyard/RepRap/3dprintfit.github.com/images/screens/meshlab.png"
+       xlink:href="materials/meshlab.png"
        height="500.76645"
        width="519.42853" />
     <image
        y="198.65303"
        x="164.28574"
        id="image20015"
-       xlink:href="file:///home/churchyard/RepRap/3dprintfit.github.com/images/screens/slic3r.png"
+       xlink:href="materials/slic3r.png"
        height="395.83676"
        width="640.66058" />
     <image
        y="423.38641"
        x="327.28574"
        id="image19953"
-       xlink:href="file:///home/churchyard/RepRap/3dprintfit.github.com/images/screens/pronterface.png"
+       xlink:href="materials/pronterface.png"
        height="310.11359"
        width="665.70209" />
   </g>
@@ -7615,7 +7615,7 @@
     <image
        width="1157.7144"
        height="769.29547"
-       xlink:href="file:///usr/share/backgrounds/schroedinger-cat/extras/fedora-printed.jpg"
+       xlink:href="materials/fedora-printed.jpg"
        id="image11467"
        x="-74.571449"
        y="-0.93344986"
@@ -7624,7 +7624,7 @@
        y="85.977112"
        x="99.214294"
        id="image20839"
-       xlink:href="file:///home/churchyard/RepRap/artwork/presentation/materials/ctrlp.png"
+       xlink:href="materials/ctrlp.png"
        height="596.04578"
        width="825.57141" />
   </g>
